@@ -1,4 +1,10 @@
 {
+  "securitycraft:recipes/misc/sentry": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -14,6 +20,18 @@
   "spartanshields:recipes/silver_tower_shield": {
     "criteria": {
       "has_silver_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/armor_upgrade": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -47,6 +65,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_white_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-06-12 22:58:33 +0000"
@@ -77,15 +101,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-12 23:04:06 +0000"
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_cyan_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -98,6 +140,18 @@
   "rats:recipes/food/chef/little_black_squash_balls": {
     "criteria": {
       "has_input": "2025-06-12 23:04:02 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_magenta_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_brown_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -149,6 +203,18 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_lime_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/western_fence_acacia": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -185,6 +251,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/storage_module": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/rat_crafting_table": {
     "criteria": {
       "has_table": "2025-06-12 22:58:33 +0000"
@@ -197,9 +269,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_lime_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_light_gray_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -233,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 23:02:04 +0000"
@@ -257,6 +353,18 @@
     },
     "done": true
   },
+  "swem:recipes/misc/tack_box_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/track_mine": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/basic_energy_upgrade": {
     "criteria": {
       "has_gold": "2025-06-12 23:02:04 +0000"
@@ -266,6 +374,24 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -305,6 +431,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/security_camera": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-12 23:02:04 +0000"
@@ -317,9 +455,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/briefcase": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -341,15 +509,81 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-12 23:02:04 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blue_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/mine": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -362,6 +596,18 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_gray_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_green_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -392,6 +638,12 @@
   "rats:recipes/combat/halo_hat": {
     "criteria": {
       "has_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -473,9 +725,21 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_pink_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -491,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/silver_basic_shield": {
     "criteria": {
       "has_silver_ingot": "2025-06-12 23:02:04 +0000"
@@ -500,6 +770,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-12 23:01:05 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blue_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -527,6 +803,18 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_purple_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-06-12 23:01:07 +0000"
@@ -545,6 +833,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/tack_box_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
@@ -557,9 +851,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 23:09:58 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_cyan_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/speed_module": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/armored_quiver": {
+    "criteria": {
+      "has_ingots_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -584,6 +902,12 @@
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-06-12 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -635,6 +959,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -644,6 +974,18 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-06-12 23:01:07 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/plate_iron": {
+    "criteria": {
+      "has_ingredient": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -671,15 +1013,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/copper_nugget": {
     "criteria": {
       "has_ingots_copper": "2025-06-12 23:02:04 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-12 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -698,6 +1058,12 @@
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -749,15 +1115,63 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/crossbow_upgrade": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-12 23:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/holy_greatsword": {
+    "criteria": {
+      "has_item": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_wheel": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_light_blue_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -785,15 +1199,75 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
     },
     "done": true
   },
+  "swem:recipes/misc/tack_box_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_purple_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-06-12 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_red_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -806,6 +1280,12 @@
   "rats:recipes/tools/radius_stick": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -833,9 +1313,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_orange_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "toolleveling:recipes/tool_leveling_table": {
     "criteria": {
       "has_enchanting_table": "2025-06-12 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_green_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -851,15 +1349,39 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_yellow_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
     },
     "done": true
   },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/western_fence_jungle": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_light_gray_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -884,6 +1406,18 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_orange_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -929,9 +1463,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/tack_box_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -995,6 +1547,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/tack_box_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "rats:root": {
     "criteria": {
       "tick": "2025-06-12 22:54:13 +0000"
@@ -1004,6 +1562,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-12 23:04:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_whistle": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1025,9 +1589,39 @@
     },
     "done": true
   },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/trash_can": {
+    "criteria": {
+      "has_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1037,9 +1631,33 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_magenta_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-06-12 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_gray_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1055,9 +1673,33 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_red_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_black_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1067,9 +1709,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-12 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_cage": {
+    "criteria": {
+      "has_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1079,15 +1733,39 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_brown_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/plate_gold": {
     "criteria": {
       "has_ingredient": "2025-06-12 23:02:04 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/harming_module": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/decorations/rat_trap": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/rivet_iron": {
+    "criteria": {
+      "has_ingredient": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1115,15 +1793,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/smart_module": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/platter_upgrade": {
+    "criteria": {
+      "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_black_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1136,6 +1832,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1166,6 +1868,12 @@
   "swem:recipes/misc/western_fence_whitewash": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1200,9 +1908,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/pasture_white_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_yellow_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/tack_box_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1234,6 +1960,18 @@
   "rats:recipes/tools/patrol_stick": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_light_blue_care": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_pink_horse": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
@@ -1276,6 +2014,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
