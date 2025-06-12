@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-12 23:29:22 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-06-12 22:58:33 +0000"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "rats:recipes/combat/chef_toque": {
+    "criteria": {
+      "has_wool": "2025-06-12 23:29:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
@@ -548,6 +560,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/asbestos_upgrade": {
+    "criteria": {
+      "has_wool": "2025-06-12 23:29:22 +0000"
     },
     "done": true
   },
@@ -893,6 +911,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 23:29:22 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/jack_o_ratern": {
     "criteria": {
       "has_torch": "2025-06-12 23:04:18 +0000"
@@ -1202,6 +1226,12 @@
   "rats:recipes/misc/upgrades/milker_upgrade": {
     "criteria": {
       "has_beef": "2025-06-12 23:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 23:29:22 +0000"
     },
     "done": true
   },
@@ -1769,6 +1799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-12 23:29:22 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_fence_spruce": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -1991,9 +2027,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 23:29:22 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/leather_treated": {
     "criteria": {
       "has_leather": "2025-06-12 23:22:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_white": {
+    "criteria": {
+      "has_wool": "2025-06-12 23:29:22 +0000"
     },
     "done": true
   },
@@ -2072,6 +2120,12 @@
   "swem:recipes/misc/western_fence_birch": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 23:29:22 +0000"
     },
     "done": true
   },
@@ -2351,6 +2405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-12 23:29:22 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/rat_cage": {
     "criteria": {
       "has_ingot": "2025-06-12 23:09:31 +0000"
@@ -2366,6 +2426,12 @@
   "swem:recipes/misc/pasture_brown_horse": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 23:29:22 +0000"
     },
     "done": true
   },
@@ -2477,6 +2543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-12 23:29:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-06-12 23:26:15 +0000"
@@ -2510,6 +2582,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/shears_upgrade": {
+    "criteria": {
+      "has_wool": "2025-06-12 23:29:22 +0000"
     },
     "done": true
   },
