@@ -8033,3 +8033,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [12Jun2025 01:05:08.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Jun2025 01:05:37.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Roadrunners Beware!]
 [12Jun2025 01:05:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [We Need to Go Deeper]
+[12Jun2025 01:10:08.473] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[12Jun2025 01:10:08.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 01:10:08.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 01:13:37.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[12Jun2025 01:14:40.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[12Jun2025 01:14:50.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Spectator Mode
+[12Jun2025 01:15:08.470] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[12Jun2025 01:15:08.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 01:15:08.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 01:15:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Eye Spy]
+[12Jun2025 01:15:32.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made samuel0806 a server operator
+[12Jun2025 01:15:37.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[12Jun2025 01:15:44.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Monster Hunter]
+[12Jun2025 01:15:53.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [The End?]
+[12Jun2025 01:15:55.247] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[12Jun2025 01:15:55.248] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[12Jun2025 01:15:55.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[12Jun2025 01:17:59.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Draconic Evolution]
