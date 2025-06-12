@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-06-12 23:23:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 23:02:04 +0000"
@@ -92,6 +104,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -122,6 +140,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
     },
     "done": true
   },
@@ -173,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
@@ -209,6 +239,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-06-12 23:09:31 +0000"
@@ -218,6 +260,18 @@
   "swem:recipes/misc/western_fence_acacia": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
     },
     "done": true
   },
@@ -281,6 +335,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_lime_horse": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
@@ -299,6 +365,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-12 23:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-06-12 22:58:52 +0000"
@@ -311,15 +383,39 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-12 23:02:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2025-06-12 23:23:08 +0000"
     },
     "done": true
   },
@@ -341,6 +437,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
@@ -356,6 +464,12 @@
   "swem:recipes/misc/tack_box_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -383,6 +497,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/tack_box_blue": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
@@ -395,15 +527,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-06-12 23:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/white_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/rivet_gold": {
     "criteria": {
       "has_ingredient": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -431,15 +599,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
+  "rats:recipes/combat/fisherman_hat": {
+    "criteria": {
+      "has_fish": "2025-06-12 23:25:56 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/tack_box_orange": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -452,6 +644,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-06-12 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
     },
     "done": true
   },
@@ -491,6 +689,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-12 23:21:48 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-06-12 23:01:07 +0000"
@@ -500,6 +722,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
     },
     "done": true
   },
@@ -518,6 +746,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
     },
     "done": true
   },
@@ -551,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-06-12 23:09:31 +0000"
@@ -560,6 +800,18 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
     },
     "done": true
   },
@@ -578,6 +830,12 @@
   "swem:recipes/misc/pasture_blue_care": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -611,9 +869,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
     },
     "done": true
   },
@@ -641,6 +917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
@@ -653,6 +935,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-12 23:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -662,6 +956,18 @@
   "cnc:cnc": {
     "criteria": {
       "cnc_0": "2025-06-12 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -692,6 +998,18 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
     },
     "done": true
   },
@@ -773,9 +1091,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blue_horse": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -809,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
@@ -839,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-12 22:58:50 +0000"
@@ -854,6 +1196,12 @@
   "iceandfire:recipes/tools/silver_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-06-12 23:09:58 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/milker_upgrade": {
+    "criteria": {
+      "has_beef": "2025-06-12 23:21:48 +0000"
     },
     "done": true
   },
@@ -923,9 +1271,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/western_fence_oak": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -965,9 +1325,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -1007,6 +1379,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-06-12 22:58:13 +0000"
@@ -1019,15 +1397,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/copper_nugget": {
     "criteria": {
       "has_ingots_copper": "2025-06-12 23:02:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-12 23:21:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-06-12 23:23:08 +0000"
     },
     "done": true
   },
@@ -1067,15 +1463,39 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/disenchanter_upgrade": {
+    "criteria": {
+      "has_shelf": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-06-12 23:01:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2025-06-12 23:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -1115,6 +1535,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-06-12 23:09:31 +0000"
@@ -1124,6 +1550,12 @@
   "mca:recipes/decorations/light_gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/underwater_upgrade": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -1169,9 +1601,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/magenta_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_light_blue_horse": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -1217,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
@@ -1235,9 +1685,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-06-12 23:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -1277,6 +1745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/tools/radius_stick": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -1313,15 +1787,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-12 23:25:56 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_orange_horse": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "toolleveling:recipes/tool_leveling_table": {
     "criteria": {
       "has_enchanting_table": "2025-06-12 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -1397,6 +1889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-06-12 23:02:04 +0000"
@@ -1406,6 +1904,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -1445,6 +1949,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_fence_oak": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -1478,6 +1988,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/leather_treated": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
     },
     "done": true
   },
@@ -1517,9 +2033,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/crafting_upgrade": {
     "criteria": {
       "has_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "cnc:greywolfadvancement": {
+    "criteria": {
+      "greywolfadvancement_0": "2025-06-12 23:21:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-06-12 23:23:08 +0000"
     },
     "done": true
   },
@@ -1541,6 +2075,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-12 22:58:52 +0000"
@@ -1559,6 +2105,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-12 23:04:02 +0000"
@@ -1568,6 +2120,12 @@
   "rats:recipes/tools/rat_whistle": {
     "criteria": {
       "has_iron": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
     },
     "done": true
   },
@@ -1583,6 +2141,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-12 22:58:13 +0000"
@@ -1592,6 +2156,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2025-06-12 23:25:56 +0000"
     },
     "done": true
   },
@@ -1610,6 +2180,18 @@
   "rats:recipes/building_blocks/trash_can": {
     "criteria": {
       "has_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_sack": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
     },
     "done": true
   },
@@ -1685,9 +2267,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 23:24:22 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_black_care": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
     },
     "done": true
   },
@@ -1697,9 +2297,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-12 23:25:56 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -1715,9 +2327,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-12 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/fish_barrel": {
+    "criteria": {
+      "has_fish": "2025-06-12 23:25:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -1736,6 +2366,12 @@
   "swem:recipes/misc/pasture_brown_horse": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-06-12 23:23:08 +0000"
     },
     "done": true
   },
@@ -1769,6 +2405,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-06-12 23:23:08 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/undead_upgrade": {
     "criteria": {
       "has_bone": "2025-06-12 23:02:04 +0000"
@@ -1784,6 +2426,12 @@
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_fish": "2025-06-12 23:25:56 +0000"
     },
     "done": true
   },
@@ -1811,15 +2459,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-12 23:26:48 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_black_horse": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
     },
     "done": true
   },
@@ -1841,9 +2519,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
     },
     "done": true
   },
@@ -1859,9 +2555,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:26:29 +0000"
     },
     "done": true
   },
@@ -1883,6 +2591,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-06-12 23:02:04 +0000"
@@ -1898,7 +2612,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-12 23:07:11 +0000",
-      "minecraft:forest": "2025-06-12 22:54:14 +0000"
+      "minecraft:lukewarm_ocean": "2025-06-12 23:24:46 +0000",
+      "minecraft:river": "2025-06-12 23:25:34 +0000",
+      "minecraft:forest": "2025-06-12 22:54:14 +0000",
+      "minecraft:ocean": "2025-06-12 23:24:34 +0000",
+      "minecraft:plains": "2025-06-12 23:21:15 +0000"
     },
     "done": false
   },
@@ -1963,6 +2681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:26:15 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_light_blue_care": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 23:09:31 +0000"
@@ -1981,9 +2705,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-12 23:26:41 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-12 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/dragon_wing": {
+    "criteria": {
+      "has_leather": "2025-06-12 23:22:03 +0000"
     },
     "done": true
   },
@@ -2032,6 +2768,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-12 23:21:48 +0000"
     },
     "done": true
   },
