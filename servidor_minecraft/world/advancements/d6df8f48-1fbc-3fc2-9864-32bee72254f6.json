@@ -3200,9 +3200,39 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_magenta": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
+  "rats:cheese": {
+    "criteria": {
+      "get_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
+  "cnc:whitetail_advancement": {
+    "criteria": {
+      "whitetail_advancement_0": "2025-06-13 02:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-13 02:47:47 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/bin_grain_spruce": {
     "criteria": {
       "has_chest": "2025-06-13 02:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-13 02:46:43 +0000"
     },
     "done": true
   },
@@ -3224,15 +3254,33 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-06-13 02:16:54 +0000"
     },
     "done": true
   },
+  "cnc:bewitched_grey_wolf_advancement": {
+    "criteria": {
+      "bewitched_grey_wolf_advancement_0": "2025-06-13 02:49:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-06-13 02:17:29 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_brown": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
     },
     "done": true
   },
@@ -3260,6 +3308,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-06-13 02:52:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_gray": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/bin_grain_jungle": {
     "criteria": {
       "has_chest": "2025-06-13 02:21:47 +0000"
@@ -3278,9 +3338,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/wheel_barrow_orange": {
     "criteria": {
       "has_bucket": "2025-06-13 02:23:53 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_purple": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
     },
     "done": true
   },
@@ -3302,9 +3374,21 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/block_of_cheese": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_water_bottle": {
     "criteria": {
       "has_water": "2025-06-13 02:23:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_orange": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
     },
     "done": true
   },
@@ -3356,15 +3440,57 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_blue": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-13 02:23:55 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-06-13 02:45:58 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_lime": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-06-13 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/chef/string_cheese": {
+    "criteria": {
+      "has_input": "2025-06-13 02:46:39 +0000"
     },
     "done": true
   },
@@ -3392,9 +3518,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_cyan": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-13 02:17:29 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_black": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
     },
     "done": true
   },
@@ -3452,6 +3590,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-13 02:25:56 +0000"
@@ -3467,6 +3611,12 @@
   "swem:recipes/misc/bin_grain_cyan": {
     "criteria": {
       "has_chest": "2025-06-13 02:21:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_green": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
     },
     "done": true
   },
@@ -3491,6 +3641,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-13 02:17:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-06-13 02:46:43 +0000"
     },
     "done": true
   },
@@ -3578,6 +3734,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_yellow": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/wheel_barrow_purple": {
     "criteria": {
       "has_bucket": "2025-06-13 02:23:53 +0000"
@@ -3596,6 +3758,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-13 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_light_blue": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_pink": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/wheel_barrow_white": {
     "criteria": {
       "has_bucket": "2025-06-13 02:23:53 +0000"
@@ -3605,6 +3785,18 @@
   "swem:recipes/misc/bin_grain_black": {
     "criteria": {
       "has_chest": "2025-06-13 02:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-13 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_red": {
+    "criteria": {
+      "has_cheese": "2025-06-13 02:46:39 +0000"
     },
     "done": true
   },

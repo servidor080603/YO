@@ -582,3 +582,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Jun2025 02:14:38.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
 [13Jun2025 02:14:38.307] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was loaded
 [13Jun2025 02:16:54.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Ice Bucket Challenge]
+[13Jun2025 02:45:58.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Minecraft Comes Alive]
+[13Jun2025 02:46:44.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Juliya'/12324, l='ServerLevel[world]', x=-2110.38, y=67.00, z=-3118.58] died, message: 'Juliya was energized by Lightning Dragon'
+[13Jun2025 02:46:44.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Juliya'/12324, l='ServerLevel[world]', x=-2110.38, y=67.00, z=-3118.58] died: Juliya was energized by Lightning Dragon
+[13Jun2025 02:47:47.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Not Today, Thank You]
+[13Jun2025 02:48:40.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Lightning Dragon
+[13Jun2025 02:48:40.711] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[13Jun2025 02:49:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has completed the challenge [Deception!]
+[13Jun2025 02:50:00.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nagima'/17792, l='ServerLevel[world]', x=-2104.80, y=65.34, z=-3144.47] died, message: 'Nagima was slain by Lightning Dragon'
+[13Jun2025 02:50:00.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nagima'/17792, l='ServerLevel[world]', x=-2104.80, y=65.34, z=-3144.47] died: Nagima was slain by Lightning Dragon
+[13Jun2025 02:50:06.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Danila'/17825, l='ServerLevel[world]', x=-2111.17, y=62.38, z=-3145.84] died, message: 'Danila was slain by Lightning Dragon'
+[13Jun2025 02:50:06.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Danila'/17825, l='ServerLevel[world]', x=-2111.17, y=62.38, z=-3145.84] died: Danila was slain by Lightning Dragon
+[13Jun2025 02:51:14.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jeyhun'/17906, l='ServerLevel[world]', x=-2065.40, y=63.00, z=-3146.30] died, message: 'Jeyhun was energized by Lightning Dragon'
+[13Jun2025 02:51:14.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jeyhun'/17906, l='ServerLevel[world]', x=-2065.40, y=63.00, z=-3146.30] died: Jeyhun was struck with lightning by Lightning Dragon
+[13Jun2025 02:51:20.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alexander'/17804, l='ServerLevel[world]', x=-2114.96, y=62.50, z=-3146.53] died, message: 'Alexander was struck with lightning by Lightning Dragon'
+[13Jun2025 02:51:20.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Alexander'/17804, l='ServerLevel[world]', x=-2114.96, y=62.50, z=-3146.53] died: Alexander was energized by Lightning Dragon
+[13Jun2025 02:52:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Oh Deer]
+[13Jun2025 02:52:55.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Dark Metallurgy]
+[13Jun2025 03:03:03.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oleg'/22400, l='ServerLevel[world]', x=-2086.82, y=67.44, z=-3128.64] died, message: 'Oleg was struck with lightning by Lightning Dragon'
+[13Jun2025 03:03:03.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Oleg'/22400, l='ServerLevel[world]', x=-2086.82, y=67.44, z=-3128.64] died: Oleg was energized by Lightning Dragon
