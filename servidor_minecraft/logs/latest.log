@@ -601,3 +601,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Jun2025 02:52:55.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Dark Metallurgy]
 [13Jun2025 03:03:03.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oleg'/22400, l='ServerLevel[world]', x=-2086.82, y=67.44, z=-3128.64] died, message: 'Oleg was struck with lightning by Lightning Dragon'
 [13Jun2025 03:03:03.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Oleg'/22400, l='ServerLevel[world]', x=-2086.82, y=67.44, z=-3128.64] died: Oleg was energized by Lightning Dragon
+[13Jun2025 03:03:39.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was struck with lightning by Lightning Dragon
+[13Jun2025 03:03:39.682] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[13Jun2025 03:03:58.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Creative Mode
+[13Jun2025 03:04:17.328] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-33, -61], discarding
+[13Jun2025 03:04:17.340] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: legendary_monsters:mossy_temple
+[13Jun2025 03:04:17.340] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-32, -61], discarding
+[13Jun2025 03:04:17.713] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-33, -62], discarding
+[13Jun2025 03:04:17.714] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-32, -62], discarding
+[13Jun2025 03:04:17.715] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-31, -61], discarding
+[13Jun2025 03:04:18.507] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-33, -63], discarding
+[13Jun2025 03:04:18.508] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-32, -63], discarding
+[13Jun2025 03:04:18.510] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-31, -62], discarding
+[13Jun2025 03:04:18.511] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-30, -61], discarding
+[13Jun2025 03:04:19.458] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-33, -64], discarding
+[13Jun2025 03:04:19.459] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-32, -64], discarding
+[13Jun2025 03:04:19.461] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-31, -63], discarding
+[13Jun2025 03:04:19.540] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-30, -62], discarding
+[13Jun2025 03:04:20.456] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-30, -63], discarding
+[13Jun2025 03:04:20.472] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-31, -64], discarding
+[13Jun2025 03:04:21.865] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:mossy_temple' in chunk [-30, -64], discarding
+[13Jun2025 03:04:33.036] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id legendary_monsters:overgrown_colossus
+[13Jun2025 03:06:25.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30424, l='ServerLevel[world]', x=-1897.50, y=58.00, z=-2483.50]
+[13Jun2025 03:08:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: suvival
+[13Jun2025 03:08:12.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...de suvival samuel0806<--[HERE]
+[13Jun2025 03:08:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Survival Mode
+[13Jun2025 03:08:45.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Creative Mode
+[13Jun2025 03:10:07.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! -8.477731809107354,0.0,6.793953374633475
+[13Jun2025 03:11:34.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 lost connection: Disconnected
+[13Jun2025 03:11:34.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 left the game
+[13Jun2025 03:11:34.275] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was unloaded
