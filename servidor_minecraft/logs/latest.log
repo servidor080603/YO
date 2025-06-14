@@ -2,3 +2,10 @@
 [14Jun2025 00:32:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [Half a flight]
 [14Jun2025 00:41:05.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yevgenia'/18841, l='ServerLevel[world]', x=-2457.68, y=71.00, z=-2974.70] died, message: 'Yevgenia was slain by Door Knight'
 [14Jun2025 00:41:05.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yevgenia'/18841, l='ServerLevel[world]', x=-2457.68, y=71.00, z=-2974.70] died: Yevgenia was slain by Door Knight
+[14Jun2025 00:44:20.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hau'/19785, l='ServerLevel[world]', x=-2412.68, y=63.00, z=-2495.43] died, message: 'Hau was slain by Zombie'
+[14Jun2025 00:44:20.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hau'/19785, l='ServerLevel[world]', x=-2412.68, y=63.00, z=-2495.43] died: Hau was slain by Zombie
+[14Jun2025 00:45:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Ambush]
+[14Jun2025 00:45:09.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Ashes 'n Bones]
+[14Jun2025 00:45:09.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [A Strange Grave Dust]
+[14Jun2025 00:46:34.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2453, y=64, z=-2482} BlockPos{x=-2454, y=64, z=-2482}
+[14Jun2025 01:04:42.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [The Parrots and the Bats]
