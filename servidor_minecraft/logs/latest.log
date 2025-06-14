@@ -9975,3 +9975,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [14Jun2025 15:36:28.349] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
 [14Jun2025 15:41:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Spiders Mother
 [14Jun2025 15:41:34.655] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[14Jun2025 15:45:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Creative Mode
+[14Jun2025 15:47:33.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: samuel0806
+[14Jun2025 15:47:33.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...samuel0806<--[HERE]
+[14Jun2025 15:47:42.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Survival Mode
+[14Jun2025 15:48:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [It Belongs in a Museum]
+[14Jun2025 15:50:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Full Moon in a Pocket]
+[14Jun2025 15:51:00.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Diamonds!]
