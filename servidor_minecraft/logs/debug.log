@@ -19225,3 +19225,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [14Jun2025 00:17:35.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 00:17:35.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 00:17:36.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Who You Gonna Call?]
+[14Jun2025 00:22:35.081] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[14Jun2025 00:22:35.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 00:22:35.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 00:27:35.081] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[14Jun2025 00:27:35.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 00:27:35.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
