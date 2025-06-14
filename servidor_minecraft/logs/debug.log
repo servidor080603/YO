@@ -19231,3 +19231,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [14Jun2025 00:27:35.081] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
 [14Jun2025 00:27:35.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 00:27:35.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 00:32:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [Half a flight]
+[14Jun2025 00:32:35.085] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[14Jun2025 00:32:35.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 00:32:35.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 00:35:40.261] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[14Jun2025 00:37:35.083] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[14Jun2025 00:37:35.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 00:37:35.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 00:41:05.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yevgenia'/18841, l='ServerLevel[world]', x=-2457.68, y=71.00, z=-2974.70] died, message: 'Yevgenia was slain by Door Knight'
+[14Jun2025 00:41:05.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yevgenia'/18841, l='ServerLevel[world]', x=-2457.68, y=71.00, z=-2974.70] died: Yevgenia was slain by Door Knight

@@ -4127,6 +4127,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-06-14 00:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-14 00:12:18 +0000"
@@ -4517,6 +4523,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-06-14 00:32:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-06-14 00:19:33 +0000"
@@ -4604,6 +4616,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-06-14 00:32:18 +0000"
     },
     "done": true
   },

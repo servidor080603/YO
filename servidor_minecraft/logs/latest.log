@@ -1,1 +1,4 @@
 [14Jun2025 00:17:36.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Who You Gonna Call?]
+[14Jun2025 00:32:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [Half a flight]
+[14Jun2025 00:41:05.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yevgenia'/18841, l='ServerLevel[world]', x=-2457.68, y=71.00, z=-2974.70] died, message: 'Yevgenia was slain by Door Knight'
+[14Jun2025 00:41:05.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yevgenia'/18841, l='ServerLevel[world]', x=-2457.68, y=71.00, z=-2974.70] died: Yevgenia was slain by Door Knight
