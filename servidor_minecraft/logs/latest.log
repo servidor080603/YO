@@ -9971,3 +9971,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [14Jun2025 15:14:29.379] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was loaded
 [14Jun2025 15:27:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was shot by Skeleton
 [14Jun2025 15:27:30.937] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[14Jun2025 15:36:28.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Dragon
+[14Jun2025 15:36:28.349] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[14Jun2025 15:41:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Spiders Mother
+[14Jun2025 15:41:34.655] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved

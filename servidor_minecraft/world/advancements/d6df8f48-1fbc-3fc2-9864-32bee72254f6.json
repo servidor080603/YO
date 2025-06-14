@@ -2858,7 +2858,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-12 23:38:38 +0000",
       "minecraft:husk": "2025-06-14 00:44:51 +0000",
-      "minecraft:zombie": "2025-06-12 23:39:50 +0000"
+      "minecraft:zombie": "2025-06-12 23:39:50 +0000",
+      "minecraft:drowned": "2025-06-14 15:34:06 +0000"
     },
     "done": false
   },
