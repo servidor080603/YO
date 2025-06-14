@@ -4008,21 +4008,255 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bee": {
+  "scguns:main/root": {
     "criteria": {
-      "has_honey_bottle": "2025-06-14 00:48:30 +0000"
+      "gun": "2025-06-13 23:52:58 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "has_glass": "2025-06-14 00:26:34 +0000"
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-14 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-14 00:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 00:15:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-14 00:17:36 +0000"
     },
     "done": true
   },
   "mca:recipes/decorations/black_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-14 00:20:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-14 00:26:34 +0000"
     },
     "done": true
   },
@@ -4056,33 +4290,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-06-14 00:45:09 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/white_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
     },
     "done": true
   },
@@ -4128,45 +4338,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-14 00:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-06-14 00:15:18 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_leggings": {
-    "criteria": {
-      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-06-14 00:39:36 +0000"
-    },
-    "done": true
-  },
-  "paraglider:paraglider": {
-    "criteria": {
-      "paraglider": "2025-06-14 00:32:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
     },
     "done": true
   },
@@ -4179,18 +4353,6 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/purple_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-06-14 01:04:42 +0000"
     },
     "done": true
   },
@@ -4212,24 +4374,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-14 00:39:50 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/orange_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
@@ -4248,18 +4392,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/gray_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
@@ -4272,33 +4404,9 @@
     },
     "done": true
   },
-  "chococraft:recipes/misc/chocobo_saddle_alt": {
-    "criteria": {
-      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/green_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/root": {
-    "criteria": {
-      "gun": "2025-06-13 23:52:58 +0000"
     },
     "done": true
   },
@@ -4314,21 +4422,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/golem_mount_upgrade": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/magenta_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
     },
     "done": true
   },
@@ -4356,45 +4452,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-06-14 00:20:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-14 00:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_saddle": {
-    "criteria": {
-      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/lime_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
     },
     "done": true
   },
@@ -4407,18 +4467,6 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/cyan_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
     },
     "done": true
   },
@@ -4464,51 +4512,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_boots": {
-    "criteria": {
-      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/combat/farmer_hat": {
-    "criteria": {
-      "has_hay": "2025-06-14 00:39:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_blue_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/assorted_vegetables": {
-    "criteria": {
-      "has_a_veggie": "2025-06-14 00:48:23 +0000"
     },
     "done": true
   },
@@ -4524,87 +4536,15 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/bee_upgrade": {
-    "criteria": {
-      "has_bottle": "2025-06-14 00:48:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_chestplate": {
-    "criteria": {
-      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-06-14 00:48:30 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/pink_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-06-14 00:48:30 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/yellow_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/brown_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_whistle": {
-    "criteria": {
-      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-06-14 00:15:18 +0000"
     },
     "done": true
   },
@@ -4632,24 +4572,6 @@
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/deku_leaf": {
-    "criteria": {
-      "has_paragliders": "2025-06-14 00:32:18 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/chef_upgrade": {
-    "criteria": {
-      "has_cake": "2025-06-14 00:48:32 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/red_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
@@ -4668,33 +4590,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_helmet": {
-    "criteria": {
-      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-06-14 00:45:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
     },
     "done": true
   },
@@ -4707,12 +4605,6 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-14 00:48:23 +0000"
     },
     "done": true
   },
@@ -4734,18 +4626,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-14 00:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
@@ -4758,39 +4638,9 @@
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/paraglider": {
-    "criteria": {
-      "has_paragliders": "2025-06-14 00:32:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-14 00:17:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-06-14 00:39:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/blue_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
     },
     "done": true
   },
@@ -4806,30 +4656,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-06-14 00:45:09 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_saddle_bags": {
-    "criteria": {
-      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-06-14 00:12:18 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_gray_cherry_crib": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-14 00:19:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
@@ -4839,6 +4665,330 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-14 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-06-14 00:32:18 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-06-14 00:32:18 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-06-14 00:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-14 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/farmer_hat": {
+    "criteria": {
+      "has_hay": "2025-06-14 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-14 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-14 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-14 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-14 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-14 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-14 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-14 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-14 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2025-06-14 00:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-14 00:48:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-14 00:48:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bee_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-06-14 00:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-14 00:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-14 00:48:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chef_upgrade": {
+    "criteria": {
+      "has_cake": "2025-06-14 00:48:32 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-14 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-14 01:04:42 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/manhole": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/whitewash_stall_care": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/dark_oak_stall_horse": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/acacia_stall_care": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/birch_stall_care": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/spruce_stall_horse": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/oak_stall_horse": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/jungle_stall_care": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/spruce_stall_care": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/dark_oak_stall_care": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/oak_stall_care": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/birch_stall_horse": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/acacia_stall_horse": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/whitewash_stall_horse": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/jungle_stall_horse": {
+    "criteria": {
+      "has_bars": "2025-06-14 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/placer_upgrade": {
+    "criteria": {
+      "has_cobble": "2025-06-14 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-06-14 01:25:55 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-06-14 01:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-14 15:26:32 +0000"
     },
     "done": true
   },
