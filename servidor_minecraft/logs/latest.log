@@ -9976,3 +9976,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [17Jun2025 19:45:30.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set the time to 1000]
 [17Jun2025 19:50:04.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
 [17Jun2025 19:51:21.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set the time to 1000]
+[17Jun2025 20:00:04.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[17Jun2025 20:00:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[17Jun2025 20:02:31.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Friendship Found]
