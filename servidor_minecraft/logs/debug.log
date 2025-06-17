@@ -17028,3 +17028,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [17Jun2025 01:47:59.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jun2025 01:47:59.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jun2025 01:51:30.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has completed the challenge [Home on The Ranch]
+[17Jun2025 01:52:59.343] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[17Jun2025 01:52:59.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 01:52:59.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 01:53:33.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Gotta Capture Them All!]
+[17Jun2025 01:57:26.020] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jun2025 01:57:26.020] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jun2025 01:57:26.860] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Jun2025 01:57:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Ozark Apparition]
+[17Jun2025 01:57:59.329] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[17Jun2025 01:57:59.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 01:57:59.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

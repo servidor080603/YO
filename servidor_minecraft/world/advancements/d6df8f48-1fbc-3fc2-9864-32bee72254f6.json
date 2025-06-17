@@ -5372,6 +5372,12 @@
     },
     "done": true
   },
+  "cnc:skinwalkeradvancement": {
+    "criteria": {
+      "skinwalkeradvancement_0": "2025-06-17 01:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-17 01:41:24 +0000"
@@ -5408,6 +5414,12 @@
     },
     "done": true
   },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-06-17 01:53:33 +0000"
+    },
+    "done": true
+  },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2025-06-17 01:41:24 +0000"
@@ -5423,6 +5435,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-17 01:27:57 +0000"
+    },
+    "done": true
+  },
+  "cnc:howleradvancement": {
+    "criteria": {
+      "howleradvancement_0": "2025-06-17 01:57:50 +0000"
     },
     "done": true
   },
