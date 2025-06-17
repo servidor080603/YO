@@ -9973,3 +9973,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [17Jun2025 19:39:58.828] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
 [17Jun2025 19:40:37.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
 [17Jun2025 19:44:30.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! 10.687345661009203,0.0,0.43256140338689875
+[17Jun2025 19:45:30.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set the time to 1000]
+[17Jun2025 19:50:04.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[17Jun2025 19:51:21.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set the time to 1000]
