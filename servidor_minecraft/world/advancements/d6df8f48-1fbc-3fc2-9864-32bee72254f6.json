@@ -5542,9 +5542,33 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-06-17 20:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-17 20:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-17 20:01:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-17 19:36:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flute_upgrade": {
+    "criteria": {
+      "has_clay": "2025-06-17 20:01:49 +0000"
     },
     "done": true
   },
