@@ -5372,9 +5372,9 @@
     },
     "done": true
   },
-  "cnc:skinwalkeradvancement": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "skinwalkeradvancement_0": "2025-06-17 01:51:30 +0000"
+      "find_artifact": "2025-06-17 01:27:57 +0000"
     },
     "done": true
   },
@@ -5414,12 +5414,6 @@
     },
     "done": true
   },
-  "portablemobs:mastercelladvancement": {
-    "criteria": {
-      "mastercell": "2025-06-17 01:53:33 +0000"
-    },
-    "done": true
-  },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2025-06-17 01:41:24 +0000"
@@ -5432,15 +5426,45 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "cnc:skinwalkeradvancement": {
     "criteria": {
-      "find_artifact": "2025-06-17 01:27:57 +0000"
+      "skinwalkeradvancement_0": "2025-06-17 01:51:30 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-06-17 01:53:33 +0000"
     },
     "done": true
   },
   "cnc:howleradvancement": {
     "criteria": {
       "howleradvancement_0": "2025-06-17 01:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-17 01:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-17 01:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-17 01:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-06-17 01:59:44 +0000"
     },
     "done": true
   },
