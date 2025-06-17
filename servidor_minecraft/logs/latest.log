@@ -9972,3 +9972,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [17Jun2025 18:46:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Spectator Mode
 [17Jun2025 18:46:20.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! -9.469354633974945,-3.1909013491950162,-4.135575341175354
 [17Jun2025 18:47:22.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Survival Mode
+[17Jun2025 18:52:09.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Wendigo
+[17Jun2025 18:52:09.250] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[17Jun2025 18:52:10.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has completed the challenge [Harrowing Hunger]
+[17Jun2025 18:52:34.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Spectator Mode
+[17Jun2025 18:53:05.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[17Jun2025 18:54:38.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Sneak 100]
