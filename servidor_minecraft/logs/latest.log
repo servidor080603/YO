@@ -9984,3 +9984,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [17Jun2025 22:45:30.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nelya'/21507, l='ServerLevel[world]', x=-4708.79, y=67.50, z=-3071.58] died, message: 'Nelya was slain by Door Knight'
 [17Jun2025 22:45:30.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nelya'/21507, l='ServerLevel[world]', x=-4708.79, y=67.50, z=-3071.58] died: Nelya was slain by Door Knight
 [17Jun2025 22:50:53.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [They Grow Up So Fast]
+[17Jun2025 22:50:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was blown up by Creeper
+[17Jun2025 22:50:59.217] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[17Jun2025 22:56:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Sea Serpent
+[17Jun2025 22:56:18.777] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[17Jun2025 22:56:25.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[17Jun2025 22:59:16.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[17Jun2025 22:59:19.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[17Jun2025 23:01:53.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[17Jun2025 23:04:54.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[17Jun2025 23:05:10.418] [Server thread/WARN] [com.alaharranhonor.swem.forge.ModRef/]: Could not find entity with id: 41635 requested by samuel0806
+[17Jun2025 23:05:43.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
