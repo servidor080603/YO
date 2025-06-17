@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-06-13 02:02:02 +0000",
+      "minecraft:sunflower_plains": "2025-06-17 19:39:49 +0000",
       "minecraft:birch_forest": "2025-06-12 23:45:32 +0000",
       "minecraft:wooded_badlands": "2025-06-13 01:55:05 +0000",
       "minecraft:badlands": "2025-06-13 01:46:47 +0000",
@@ -5526,6 +5527,24 @@
   "rats:recipes/misc/upgrades/tnt_upgrade": {
     "criteria": {
       "has_tnt": "2025-06-17 19:03:38 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-06-17 19:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-17 19:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-17 19:36:54 +0000"
     },
     "done": true
   },
