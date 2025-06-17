@@ -9967,3 +9967,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [17Jun2025 18:32:02.824] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'samuel0806'
 [17Jun2025 18:32:02.845] [Server thread/INFO] [Jade/]: Syncing config to samuel0806 (d6df8f48-1fbc-3fc2-9864-32bee72254f6)
 [17Jun2025 18:32:08.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was loaded
+[17Jun2025 18:45:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was shot by Stray
+[17Jun2025 18:45:47.122] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[17Jun2025 18:46:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Spectator Mode
+[17Jun2025 18:46:20.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! -9.469354633974945,-3.1909013491950162,-4.135575341175354
+[17Jun2025 18:47:22.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set samuel0806's game mode to Survival Mode
