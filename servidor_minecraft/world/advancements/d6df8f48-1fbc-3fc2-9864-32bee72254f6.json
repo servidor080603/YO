@@ -7107,6 +7107,36 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_pack": {
+    "criteria": {
+      "has_chocobo_saddle_bags": "2025-06-18 21:48:15 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2025-06-18 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-18 21:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-18 21:58:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-18 22:02:57 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/halter_brown": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
@@ -7122,12 +7152,6 @@
   "swem:recipes/misc/separator_purple": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/ocean_blueprint": {
-    "criteria": {
-      "ocean_blueprint": "2025-06-18 22:10:55 +0000"
     },
     "done": true
   },
@@ -7191,24 +7215,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-18 22:09:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/tools/rat_capture_net": {
     "criteria": {
       "has_iron": "2025-06-18 22:07:20 +0000"
@@ -7257,12 +7263,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/separator_light_gray": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
@@ -7272,18 +7272,6 @@
   "swem:recipes/misc/web_guard_light_blue_rider": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
     },
     "done": true
   },
@@ -7317,21 +7305,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/separator_lime": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
     },
     "done": true
   },
@@ -7368,12 +7344,6 @@
   "swem:recipes/misc/separator_white": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "rats:plague_doctor": {
-    "criteria": {
-      "meet_doctor": "2025-06-18 21:49:13 +0000"
     },
     "done": true
   },
@@ -7443,33 +7413,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/web_guard_yellow_rider": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-18 22:11:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_true_sight": {
-    "criteria": {
-      "has_magic_scroll": "2025-06-18 22:11:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
     },
     "done": true
   },
@@ -7485,21 +7431,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/halter_green": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-18 22:09:02 +0000"
     },
     "done": true
   },
@@ -7515,12 +7449,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/web_guard_orange_rider": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
@@ -7530,12 +7458,6 @@
   "swem:recipes/misc/halter_lime": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-06-18 22:18:14 +0000"
     },
     "done": true
   },
@@ -7587,12 +7509,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-18 21:58:33 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/web_guard_cyan_care": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
@@ -7641,27 +7557,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-06-18 22:02:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-18 21:58:33 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/web_guard_lime_care": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_saddle_pack": {
-    "criteria": {
-      "has_chocobo_saddle_bags": "2025-06-18 21:48:15 +0000"
     },
     "done": true
   },
@@ -7707,12 +7605,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-18 22:11:15 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/web_guard_blue_care": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
@@ -7722,12 +7614,6 @@
   "swem:recipes/misc/web_guard_light_gray_horse": {
     "criteria": {
       "has_iron_nugget": "2025-06-18 22:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-06-18 22:09:11 +0000"
     },
     "done": true
   },
@@ -7755,15 +7641,153 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2025-06-18 22:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-18 22:09:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-18 22:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-18 22:09:02 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/iron_ring": {
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
-      "has_nuggets_iron": "2025-06-18 22:07:20 +0000"
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-18 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/ocean_blueprint": {
+    "criteria": {
+      "ocean_blueprint": "2025-06-18 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-18 22:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-18 22:11:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-18 22:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-18 22:18:14 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-06-18 22:32:03 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-18 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-18 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 22:43:50 +0000"
     },
     "done": true
   },
