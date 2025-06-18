@@ -16759,3 +16759,221 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [18Jun2025 21:43:44.816] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
 [18Jun2025 21:43:44.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 21:43:44.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:48:44.815] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 21:48:44.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:48:44.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:53:44.812] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 21:53:44.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:53:44.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:56:41.141] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 21:56:41.142] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 21:56:41.666] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Jun2025 21:56:51.626] [Worker-Main-51/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Jun2025 21:58:44.804] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 21:58:44.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:58:44.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 22:00:38.468] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-10198, y=12, z=-1691} but found not block entity block Block{minecraft:water}[level=8] at location
+[18Jun2025 22:00:38.469] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-10198, y=12, z=-1691}
+[18Jun2025 22:02:16.404] [Worker-Main-51/WARN] [com.cupboard.Cupboard/]: A mod is trying to add an entity from offthread, this should be avoided. Printing trace:
+java.lang.Exception: null
+	at net.minecraft.server.level.ServerLevel.handler$zjk000$OnaddEntity(ServerLevel.java:1655) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.peeko32213.unusualprehistory.common.world.feature.IceFossilFeature.addFossil(IceFossilFeature.java:201) ~[unusualprehistory-1.5.0.3.jar%23328!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.world.feature.IceFossilFeature.m_142674_(IceFossilFeature.java:65) ~[unusualprehistory-1.5.0.3.jar%23328!/:1.5.0.3]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[18Jun2025 22:02:57.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Pic-A-Nic Basket?]
+[18Jun2025 22:02:59.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Grizzly Bear
+[18Jun2025 22:02:59.237] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_18.06.2025-22.02.59.dat
+[18Jun2025 22:02:59.244] [Server thread/DEBUG] [tombstone/]: A new grave of the player samuel0806 was created at position [x:-9433, y:68, z:-1491, dim:minecraft:overworld]
+[18Jun2025 22:02:59.263] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[18Jun2025 22:03:44.815] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 22:03:44.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 22:03:44.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 22:04:18.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Spectator Mode]
+[18Jun2025 22:05:20.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[18Jun2025 22:05:41.254] [Worker-Main-2/WARN] [com.cupboard.Cupboard/]: A mod is trying to add an entity from offthread, this should be avoided. Printing trace:
+java.lang.Exception: null
+	at net.minecraft.server.level.ServerLevel.handler$zjk000$OnaddEntity(ServerLevel.java:1655) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.peeko32213.unusualprehistory.common.world.feature.IceFossilFeature.addFossil(IceFossilFeature.java:201) ~[unusualprehistory-1.5.0.3.jar%23328!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.world.feature.IceFossilFeature.m_142674_(IceFossilFeature.java:65) ~[unusualprehistory-1.5.0.3.jar%23328!/:1.5.0.3]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[18Jun2025 22:07:03.599] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[18Jun2025 22:08:44.803] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 22:08:44.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 22:08:44.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 22:11:58.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [I see clearly now]
+[18Jun2025 22:11:58.526] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[18Jun2025 22:13:11.077] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:11.077] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.33, y=68.00, z=-472.92], To: GusnowEntity[' gusnow  ❤195'/27008, l='ServerLevel[world]', x=-9031.33, y=66.24, z=-471.74]
+[18Jun2025 22:13:11.077] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 4.3039994 to 5.164799
+[18Jun2025 22:13:11.675] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:11.675] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.33, y=68.00, z=-472.92], To: GusnowEntity[' gusnow  ❤192'/27008, l='ServerLevel[world]', x=-9031.33, y=65.50, z=-470.98]
+[18Jun2025 22:13:11.675] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:12.372] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:12.372] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.33, y=68.00, z=-472.98], To: GusnowEntity[' gusnow  ❤187'/27008, l='ServerLevel[world]', x=-9031.30, y=65.00, z=-470.26]
+[18Jun2025 22:13:12.372] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:15.179] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:15.179] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.32, y=68.00, z=-473.06], To: GusnowEntity[' gusnow  ❤181'/27008, l='ServerLevel[world]', x=-9029.71, y=65.00, z=-472.25]
+[18Jun2025 22:13:15.179] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0 to 1.2
+[18Jun2025 22:13:15.529] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:15.529] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.49, y=68.00, z=-473.32], To: GusnowEntity[' gusnow  ❤181'/27008, l='ServerLevel[world]', x=-9028.70, y=66.04, z=-471.39]
+[18Jun2025 22:13:15.529] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 7.0 to 8.4
+[18Jun2025 22:13:17.124] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:17.124] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9032.13, y=68.00, z=-473.60], To: GusnowEntity[' gusnow  ❤176'/27008, l='ServerLevel[world]', x=-9029.32, y=66.00, z=-473.15]
+[18Jun2025 22:13:17.124] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:22.917] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:22.917] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9032.16, y=68.00, z=-473.85], To: GusnowEntity[' gusnow  ❤170'/27008, l='ServerLevel[world]', x=-9030.75, y=65.00, z=-471.54]
+[18Jun2025 22:13:22.917] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:29.071] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:29.071] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.89, y=68.00, z=-473.47], To: GusnowEntity[' gusnow  ❤164'/27008, l='ServerLevel[world]', x=-9030.66, y=65.00, z=-470.93]
+[18Jun2025 22:13:29.071] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 7.0 to 8.4
+[18Jun2025 22:13:30.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:30.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.76, y=68.00, z=-473.16], To: GusnowEntity[' gusnow  ❤160'/27008, l='ServerLevel[world]', x=-9030.32, y=65.00, z=-470.21]
+[18Jun2025 22:13:30.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 7.0 to 8.4
+[18Jun2025 22:13:35.216] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:35.216] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.14, y=68.00, z=-472.82], To: GusnowEntity[' gusnow  ❤155'/27008, l='ServerLevel[world]', x=-9029.70, y=65.00, z=-471.61]
+[18Jun2025 22:13:35.216] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 11.0 to 13.2
+[18Jun2025 22:13:35.768] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:35.768] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.56, y=68.00, z=-473.20], To: GusnowEntity[' gusnow  ❤146'/27008, l='ServerLevel[world]', x=-9029.09, y=65.00, z=-471.10]
+[18Jun2025 22:13:35.768] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 11.0 to 13.2
+[18Jun2025 22:13:36.318] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:36.319] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.12, y=68.00, z=-472.79], To: GusnowEntity[' gusnow  ❤137'/27008, l='ServerLevel[world]', x=-9028.48, y=65.00, z=-470.58]
+[18Jun2025 22:13:36.319] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 11.0 to 13.2
+[18Jun2025 22:13:39.569] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:39.570] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.45, y=68.00, z=-473.19], To: GusnowEntity[' gusnow  ❤129'/27008, l='ServerLevel[world]', x=-9029.09, y=65.00, z=-471.74]
+[18Jun2025 22:13:39.570] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:40.616] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:40.617] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.32, y=68.00, z=-473.12], To: GusnowEntity[' gusnow  ❤123'/27008, l='ServerLevel[world]', x=-9029.27, y=66.00, z=-473.08]
+[18Jun2025 22:13:40.617] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:41.175] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:41.176] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9030.92, y=68.00, z=-473.09], To: GusnowEntity[' gusnow  ❤117'/27008, l='ServerLevel[world]', x=-9028.53, y=66.00, z=-473.17]
+[18Jun2025 22:13:41.176] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:41.720] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:41.720] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.48, y=68.00, z=-473.09], To: GusnowEntity[' gusnow  ❤112'/27008, l='ServerLevel[world]', x=-9027.72, y=66.00, z=-473.18]
+[18Jun2025 22:13:41.720] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:44.803] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 22:13:44.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 22:13:44.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 22:13:47.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.20, y=68.00, z=-472.97], To: GusnowEntity[' gusnow  ❤106'/27008, l='ServerLevel[world]', x=-9029.58, y=65.00, z=-471.55]
+[18Jun2025 22:13:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:48.119] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:48.119] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.54, y=68.00, z=-473.25], To: GusnowEntity[' gusnow  ❤100'/27008, l='ServerLevel[world]', x=-9029.05, y=65.00, z=-471.02]
+[18Jun2025 22:13:48.119] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:48.617] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:48.617] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.16, y=68.00, z=-472.88], To: GusnowEntity[' gusnow  ❤94'/27008, l='ServerLevel[world]', x=-9028.45, y=65.00, z=-470.49]
+[18Jun2025 22:13:48.617] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:13:58.370] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:58.370] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9032.17, y=68.00, z=-472.71], To: GusnowEntity[' gusnow  ❤89'/27008, l='ServerLevel[world]', x=-9032.50, y=65.00, z=-471.51]
+[18Jun2025 22:13:58.371] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 10.141998 to 12.170398
+[18Jun2025 22:13:58.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:13:58.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.65, y=68.00, z=-472.70], To: GusnowEntity[' gusnow  ❤81'/27008, l='ServerLevel[world]', x=-9032.58, y=65.00, z=-470.75]
+[18Jun2025 22:13:58.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.8580017 to 1.029602
+[18Jun2025 22:14:06.922] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:14:06.922] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9031.69, y=68.00, z=-472.87], To: GusnowEntity[' gusnow  ❤81'/27008, l='ServerLevel[world]', x=-9028.67, y=65.00, z=-471.50]
+[18Jun2025 22:14:06.922] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 7.0 to 8.4
+[18Jun2025 22:14:07.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:14:07.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9030.98, y=68.00, z=-472.70], To: GusnowEntity[' gusnow  ❤76'/27008, l='ServerLevel[world]', x=-9027.94, y=65.00, z=-471.17]
+[18Jun2025 22:14:07.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 7.0 to 8.4
+[18Jun2025 22:14:11.822] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:14:11.822] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9030.70, y=68.00, z=-472.70], To: GusnowEntity[' gusnow  ❤71'/27008, l='ServerLevel[world]', x=-9028.51, y=65.00, z=-471.08]
+[18Jun2025 22:14:11.822] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 11.0 to 13.2
+[18Jun2025 22:14:12.316] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:14:12.317] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9030.70, y=68.00, z=-472.70], To: GusnowEntity[' gusnow  ❤62'/27008, l='ServerLevel[world]', x=-9027.98, y=65.00, z=-470.66]
+[18Jun2025 22:14:12.317] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 11.0 to 13.2
+[18Jun2025 22:14:15.922] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:14:15.923] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9027.99, y=67.16, z=-470.57], To: GusnowEntity[' gusnow  ❤53'/27008, l='ServerLevel[world]', x=-9027.25, y=65.00, z=-470.12]
+[18Jun2025 22:14:15.923] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 16.5 to 19.8
+[18Jun2025 22:14:17.319] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:14:17.320] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9028.20, y=65.00, z=-471.33], To: GusnowEntity[' gusnow  ❤38'/27008, l='ServerLevel[world]', x=-9025.34, y=65.00, z=-469.06]
+[18Jun2025 22:14:17.320] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:14:19.418] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:14:19.418] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9029.47, y=65.00, z=-471.61], To: GusnowEntity[' gusnow  ❤32'/27008, l='ServerLevel[world]', x=-9027.11, y=65.00, z=-470.05]
+[18Jun2025 22:14:19.418] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 22:14:21.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 22:14:21.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-9029.11, y=65.00, z=-471.21], To: GusnowEntity[' gusnow  ❤26'/27008, l='ServerLevel[world]', x=-9027.63, y=65.00, z=-470.17]
+[18Jun2025 22:14:21.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 4.0 to 4.8
+[18Jun2025 22:14:21.021] [Server thread/WARN] [com.alaharranhonor.swem.forge.ModRef/]: Could not find entity with id: 27008 requested by samuel0806
