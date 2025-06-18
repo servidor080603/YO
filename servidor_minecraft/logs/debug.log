@@ -16967,3 +16967,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [17Jun2025 23:54:04.788] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
 [17Jun2025 23:54:04.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jun2025 23:54:04.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 23:56:51.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by  crasu  ❤110
+[17Jun2025 23:56:51.661] [Server thread/DEBUG] [tombstone/]: A new grave of the player samuel0806 was created at position [x:-7819, y:72, z:-3193, dim:minecraft:overworld]
+[17Jun2025 23:56:51.666] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[17Jun2025 23:57:45.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CrasuEntity[' crasu  ❤4'/34255, l='ServerLevel[world]', x=-7816.50, y=72.70, z=-3192.32] died:  crasu  ❤4 was slain by samuel0806
+[17Jun2025 23:59:04.783] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[17Jun2025 23:59:04.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 23:59:04.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 00:01:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Cheesed to Meet You]
+[18Jun2025 00:03:58.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Wendigo
+[18Jun2025 00:03:58.614] [Server thread/DEBUG] [tombstone/]: A new grave of the player samuel0806 was created at position [x:-7663, y:70, z:-2737, dim:minecraft:overworld]
+[18Jun2025 00:03:58.621] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[18Jun2025 00:04:04.908] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 00:04:04.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 00:04:04.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 00:04:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[18Jun2025 00:04:41.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Elk-a-holic]
