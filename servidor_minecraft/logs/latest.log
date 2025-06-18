@@ -10078,3 +10078,17 @@ java.lang.Exception: null
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 [18Jun2025 22:11:58.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [I see clearly now]
 [18Jun2025 22:14:21.021] [Server thread/WARN] [com.alaharranhonor.swem.forge.ModRef/]: Could not find entity with id: 27008 requested by samuel0806
+[18Jun2025 22:26:06.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samuel0806> we
+[18Jun2025 22:28:07.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! -2.6527595286693213,3.359999895095825,-9.717398351797783
+[18Jun2025 22:28:07.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! -2.93280794071552,3.7799998819828033,-10.939035095953841
+[18Jun2025 22:28:07.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! -3.2028003036880364,4.1999998688697815,-12.161931565355644
+[18Jun2025 22:28:07.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! -3.4638246818390144,4.61999985575676,-13.385951457763895
+[18Jun2025 22:28:07.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! -3.7168514108952877,5.039999842643738,-14.610973218837898
+[18Jun2025 22:28:07.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! -3.96274583628292,5.459999829530716,-15.836888446413923
+[18Jun2025 22:28:07.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 2.303508987013629,-3.7799998819828033,11.021905193611019
+[18Jun2025 22:28:07.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 2.303508987013629,-3.7799998819828033,11.021905193611019
+[18Jun2025 22:28:07.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 2.303508987013629,-3.7799998819828033,11.021905193611019
+[18Jun2025 22:28:07.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 2.303508987013629,-3.7799998819828033,11.021905193611019
+[18Jun2025 22:28:07.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 2.303508987013629,-3.7799998819828033,11.021905193611019
+[18Jun2025 22:28:07.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 2.303508987013629,-3.7799998819828033,11.021905193611019
+[18Jun2025 22:28:07.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 2.079217425376555,-3.359999895095825,9.793283766746754
