@@ -5769,9 +5769,9 @@
     },
     "done": true
   },
-  "skilltree:recipes/combat/silent_quiver": {
+  "cnc:harmless_snakeadvancement": {
     "criteria": {
-      "has_feather": "2025-06-17 23:58:10 +0000"
+      "harmless_snakeadvancement_0": "2025-06-17 23:39:29 +0000"
     },
     "done": true
   },
@@ -5781,27 +5781,9 @@
     },
     "done": true
   },
-  "cnc:harmless_snakeadvancement": {
-    "criteria": {
-      "harmless_snakeadvancement_0": "2025-06-17 23:39:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-06-18 00:01:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-06-17 23:57:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2025-06-17 23:58:10 +0000"
     },
     "done": true
   },
@@ -5814,18 +5796,6 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-06-17 23:57:49 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/combat/piper_hat": {
-    "criteria": {
-      "has_feather": "2025-06-17 23:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-06-18 00:01:22 +0000"
     },
     "done": true
   },
@@ -5850,12 +5820,6 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-17 23:57:49 +0000"
-    },
-    "done": true
-  },
-  "cnc:mouseadvancement": {
-    "criteria": {
-      "mouseadvancement_0": "2025-06-18 00:01:29 +0000"
     },
     "done": true
   },
@@ -5889,12 +5853,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-06-17 23:58:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2025-06-17 23:57:49 +0000"
@@ -5910,12 +5868,6 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-06-17 23:57:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-18 00:00:47 +0000"
     },
     "done": true
   },
@@ -5943,12 +5895,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-06-18 00:00:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-06-17 23:57:49 +0000"
@@ -5973,12 +5919,6 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/traveler_necklace": {
-    "criteria": {
-      "has_feather": "2025-06-17 23:58:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-06-17 23:57:49 +0000"
@@ -5994,6 +5934,72 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-17 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-06-17 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-06-17 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/piper_hat": {
+    "criteria": {
+      "has_feather": "2025-06-17 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-17 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-06-17 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-18 00:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-18 00:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-18 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-18 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "cnc:mouseadvancement": {
+    "criteria": {
+      "mouseadvancement_0": "2025-06-18 00:01:29 +0000"
+    },
+    "done": true
+  },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2025-06-18 00:04:41 +0000"
     },
     "done": true
   },
