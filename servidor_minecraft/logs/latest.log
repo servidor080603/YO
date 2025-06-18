@@ -9965,3 +9965,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [18Jun2025 17:06:21.466] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'samuel0806'
 [18Jun2025 17:06:21.487] [Server thread/INFO] [Jade/]: Syncing config to samuel0806 (d6df8f48-1fbc-3fc2-9864-32bee72254f6)
 [18Jun2025 17:06:26.651] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was loaded
+[18Jun2025 17:25:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samuel0806> wwwwwww
