@@ -7775,6 +7775,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-18 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 22:43:50 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-18 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "paleo_fossil": "2025-06-18 22:56:20 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-06-18 23:12:12 +0000"
@@ -7787,39 +7811,15 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-06-18 22:53:06 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/tnt_survivor_upgrade": {
     "criteria": {
       "has_chunk": "2025-06-18 23:12:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-06-18 22:42:45 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/time_manipulator_upgrade": {
     "criteria": {
       "has_chunk": "2025-06-18 23:12:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-06-18 22:43:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/fossil": {
-    "criteria": {
-      "paleo_fossil": "2025-06-18 22:56:20 +0000"
     },
     "done": true
   },
