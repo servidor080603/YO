@@ -7791,5 +7791,11 @@
     },
     "done": true
   },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "paleo_fossil": "2025-06-18 22:56:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
