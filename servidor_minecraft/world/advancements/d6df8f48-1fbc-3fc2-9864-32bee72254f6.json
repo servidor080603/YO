@@ -73,8 +73,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-18 18:52:22 +0000",
       "minecraft:taiga": "2025-06-17 23:30:15 +0000",
       "minecraft:deep_ocean": "2025-06-17 23:00:39 +0000",
+      "minecraft:frozen_river": "2025-06-18 20:08:55 +0000",
       "minecraft:cherry_grove": "2025-06-13 02:02:02 +0000",
       "minecraft:sunflower_plains": "2025-06-17 19:39:49 +0000",
       "minecraft:birch_forest": "2025-06-12 23:45:32 +0000",
@@ -87,13 +89,17 @@
       "minecraft:lukewarm_ocean": "2025-06-12 23:24:46 +0000",
       "minecraft:river": "2025-06-12 23:25:34 +0000",
       "minecraft:stony_shore": "2025-06-12 23:45:33 +0000",
+      "minecraft:snowy_plains": "2025-06-18 20:07:44 +0000",
       "minecraft:dripstone_caves": "2025-06-14 00:14:44 +0000",
+      "minecraft:snowy_taiga": "2025-06-18 20:08:15 +0000",
       "minecraft:swamp": "2025-06-17 22:42:21 +0000",
       "minecraft:forest": "2025-06-12 22:54:14 +0000",
+      "minecraft:frozen_ocean": "2025-06-18 20:14:48 +0000",
       "minecraft:desert": "2025-06-13 01:49:17 +0000",
       "minecraft:windswept_forest": "2025-06-17 22:46:28 +0000",
       "minecraft:ocean": "2025-06-12 23:24:34 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-17 22:57:31 +0000",
+      "minecraft:snowy_beach": "2025-06-18 20:10:06 +0000",
       "minecraft:windswept_savanna": "2025-06-17 22:20:49 +0000",
       "minecraft:warm_ocean": "2025-06-13 01:52:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-13 00:08:17 +0000",
@@ -909,6 +915,7 @@
       "cooked_porkchop": "2025-06-12 23:03:30 +0000",
       "cooked_mutton": "2025-06-14 00:18:42 +0000",
       "cooked_beef": "2025-06-13 02:34:08 +0000",
+      "baked_potato": "2025-06-18 18:59:09 +0000",
       "porkchop": "2025-06-12 23:47:45 +0000",
       "apple": "2025-06-12 23:00:28 +0000",
       "potato": "2025-06-17 18:51:42 +0000",
@@ -2870,6 +2877,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-18 18:43:11 +0000",
       "minecraft:skeleton": "2025-06-12 23:38:38 +0000",
       "minecraft:husk": "2025-06-14 00:44:51 +0000",
       "minecraft:zombie": "2025-06-12 23:39:50 +0000",
@@ -6177,75 +6185,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2025-06-18 18:13:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-06-18 18:23:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-06-18 18:23:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-18 17:54:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-06-18 17:54:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-18 17:41:16 +0000"
     },
     "done": true
   },
-  "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
-    "criteria": {
-      "has_paper": "2025-06-18 18:13:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-18 17:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-18 18:23:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-06-18 18:13:38 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-18 18:23:19 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-06-18 18:13:38 +0000"
     },
     "done": true
   },
@@ -6261,39 +6209,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-18 18:23:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-18 18:23:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-06-18 18:02:15 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/cheese_banner_pattern": {
-    "criteria": {
-      "has_paper": "2025-06-18 18:13:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-18 17:41:16 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/rat_banner_pattern": {
-    "criteria": {
-      "has_paper": "2025-06-18 18:13:38 +0000"
     },
     "done": true
   },
@@ -6303,27 +6221,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-06-18 18:02:15 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/plague_doctorate": {
-    "criteria": {
-      "has_paper": "2025-06-18 18:13:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-06-18 17:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-06-18 18:13:38 +0000"
     },
     "done": true
   },
@@ -6339,9 +6239,33 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bookshelf": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_book": "2025-06-18 18:23:19 +0000"
+      "has_raw_copper": "2025-06-18 17:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-18 17:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-18 17:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-18 18:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-18 18:02:15 +0000"
     },
     "done": true
   },
@@ -6351,9 +6275,783 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "mca:recipes/misc/blueprint": {
     "criteria": {
-      "has_raw_copper": "2025-06-18 17:54:43 +0000"
+      "has_item": "2025-06-18 18:13:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-06-18 18:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-18 18:13:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-06-18 18:13:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/cheese_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-06-18 18:13:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-06-18 18:13:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/plague_doctorate": {
+    "criteria": {
+      "has_paper": "2025-06-18 18:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-18 18:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-18 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-18 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-18 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-18 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-18 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-18 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-18 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-18 18:43:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-06-18 18:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-18 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-18 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-18 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-06-18 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_light_gray": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_ball_slow_feed_hay": {
+    "criteria": {
+      "has_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_brown": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/magenta_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/cyan_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/lime_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_purple": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pink_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/light_gray_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_lime": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_pink": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_purple": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_blue": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_brown": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_cyan": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_white": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_blue": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_jolly_apple_snack": {
+    "criteria": {
+      "has_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_magenta": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_cyan": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/gray_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_light_blue": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_cyan": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_yellow": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_green": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_yellow": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/light_blue_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_jolly_ball": {
+    "criteria": {
+      "has_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/brown_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/yellow_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_lime": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_brown": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_yellow": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/white_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_lick_salt": {
+    "criteria": {
+      "has_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_magenta": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_light_gray": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_white": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_gray": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_jolly_ball_hay": {
+    "criteria": {
+      "has_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/orange_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_black": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_lime": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_light_blue": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_pink": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/black_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_blue": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/red_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_light_blue": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_pink": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_orange": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/blue_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/green_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_black": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_red": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_red": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_light_gray": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_purple": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_green": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/purple_cone": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_gray": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_orange": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_green": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_magenta": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_white": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_black": {
+    "criteria": {
+      "has_half_barrels": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_orange": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_red": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_gray": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/straw": {
+    "criteria": {
+      "has_wheat": "2025-06-18 18:58:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-06-18 18:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-18 18:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-18 18:58:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-06-18 18:58:33 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/potato_pancake": {
+    "criteria": {
+      "has_potato": "2025-06-18 18:59:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-18 19:02:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-06-18 19:02:10 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/gunpowder": {
+    "criteria": {
+      "gunpowder": "2025-06-18 19:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-18 19:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-18 19:02:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-18 19:02:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-06-18 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-06-18 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-06-18 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-06-18 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-06-18 20:10:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-06-18 20:13:04 +0000"
     },
     "done": true
   },
