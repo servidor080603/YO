@@ -9976,3 +9976,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [18Jun2025 22:53:06.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Chest Slayer]
 [18Jun2025 22:56:20.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Odd Looking Rocks]
 [18Jun2025 23:12:12.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [Fighting Nightmares]
+[18Jun2025 23:26:54.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 lost connection: Disconnected
+[18Jun2025 23:26:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 left the game
+[18Jun2025 23:26:54.342] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was unloaded
+[18Jun2025 23:27:18.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samuel0806[/127.34.90.202:50653] logged in with entity id 15554 at (-2540.7725611440937, 64.0, -2905.565763457351)
+[18Jun2025 23:27:18.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 joined the game
+[18Jun2025 23:27:18.752] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'samuel0806'
+[18Jun2025 23:27:18.753] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'samuel0806'
+[18Jun2025 23:27:18.754] [Server thread/INFO] [Jade/]: Syncing config to samuel0806 (d6df8f48-1fbc-3fc2-9864-32bee72254f6)
+[18Jun2025 23:27:20.163] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was loaded
