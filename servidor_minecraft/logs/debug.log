@@ -16766,3 +16766,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [18Jun2025 23:06:49.590] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
 [18Jun2025 23:06:49.591] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-3073.36, y=-39.00, z=-3038.25], To: EnderMan['Enderman'/9252, l='ServerLevel[world]', x=-3073.68, y=-42.00, z=-3040.60]
 [18Jun2025 23:06:49.591] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:08:20.968] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 23:08:20.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 23:08:20.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 23:11:28.492] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:11:28.492] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.30, y=-46.00, z=-3065.51], To: Creeper['Creeper'/10605, l='ServerLevel[world]', x=-2957.26, y=-44.00, z=-3065.69]
+[18Jun2025 23:11:28.492] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:11:40.038] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:11:40.038] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2960.02, y=-46.00, z=-3064.63], To: Creeper['Creeper'/10605, l='ServerLevel[world]', x=-2957.70, y=-44.00, z=-3065.28]
+[18Jun2025 23:11:40.038] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:11:50.046] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:11:50.046] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2960.28, y=-46.00, z=-3065.25], To: NightmareStalkerEntity['Nightmare Stalker'/9650, l='ServerLevel[world]', x=-2957.40, y=-44.00, z=-3065.39]
+[18Jun2025 23:11:50.046] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:11:51.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:11:51.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.68, y=-46.00, z=-3064.55], To: Creeper['Creeper'/10605, l='ServerLevel[world]', x=-2957.50, y=-44.00, z=-3063.40]
+[18Jun2025 23:11:51.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:11:53.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:11:53.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.65, y=-46.00, z=-3064.66], To: NightmareStalkerEntity['Nightmare Stalker'/9650, l='ServerLevel[world]', x=-2957.53, y=-44.00, z=-3064.12]
+[18Jun2025 23:11:53.394] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:11:54.588] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:11:54.588] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.30, y=-46.00, z=-3064.58], To: NightmareStalkerEntity['Nightmare Stalker'/9650, l='ServerLevel[world]', x=-2956.93, y=-43.00, z=-3064.04]
+[18Jun2025 23:11:54.588] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:11:55.489] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:11:55.489] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.30, y=-46.00, z=-3064.58], To: NightmareStalkerEntity['Nightmare Stalker'/9650, l='ServerLevel[world]', x=-2957.62, y=-42.00, z=-3064.52]
+[18Jun2025 23:11:55.489] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:12:03.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:12:03.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.13, y=-45.00, z=-3064.69], To: NightmareStalkerEntity['Nightmare Stalker'/9650, l='ServerLevel[world]', x=-2957.65, y=-44.00, z=-3065.03]
+[18Jun2025 23:12:03.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:12:03.787] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:12:03.787] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.13, y=-45.00, z=-3064.69], To: NightmareStalkerEntity['Nightmare Stalker'/9650, l='ServerLevel[world]', x=-2957.50, y=-44.00, z=-3064.30]
+[18Jun2025 23:12:03.787] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:12:10.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:12:10.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.18, y=-45.00, z=-3064.44], To: NightmareStalkerEntity['Nightmare Stalker'/9650, l='ServerLevel[world]', x=-2956.93, y=-43.00, z=-3064.10]
+[18Jun2025 23:12:10.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 7.0 to 8.4
+[18Jun2025 23:12:12.987] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:12:12.988] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2958.99, y=-45.00, z=-3064.65], To: NightmareStalkerEntity['Nightmare Stalker'/9650, l='ServerLevel[world]', x=-2957.65, y=-44.00, z=-3064.80]
+[18Jun2025 23:12:12.988] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 11.0 to 13.2
+[18Jun2025 23:12:12.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [Fighting Nightmares]
+[18Jun2025 23:12:30.988] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:12:30.988] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.39, y=-46.00, z=-3064.81], To: Creeper['Creeper'/10779, l='ServerLevel[world]', x=-2957.50, y=-44.00, z=-3064.45]
+[18Jun2025 23:12:30.988] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:12:49.834] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:12:49.835] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2960.24, y=-46.00, z=-3064.88], To: Creeper['Creeper'/10779, l='ServerLevel[world]', x=-2957.50, y=-44.00, z=-3064.43]
+[18Jun2025 23:12:49.835] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:13:20.970] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 23:13:20.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 23:13:20.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 23:14:25.440] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:14:25.441] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.16, y=-38.00, z=-3012.40], To: BabySpiderEntity['Baby Spider'/11728, l='ServerLevel[world]', x=-2958.65, y=-39.30, z=-3012.69]
+[18Jun2025 23:14:25.441] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:14:25.939] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:14:25.939] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2959.16, y=-38.00, z=-3012.41], To: BabySpiderEntity['Baby Spider'/11728, l='ServerLevel[world]', x=-2957.90, y=-41.57, z=-3013.69]
+[18Jun2025 23:14:25.939] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6

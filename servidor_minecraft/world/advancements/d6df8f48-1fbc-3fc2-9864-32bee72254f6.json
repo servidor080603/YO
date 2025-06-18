@@ -2883,7 +2883,9 @@
     "criteria": {
       "minecraft:pillager": "2025-06-18 18:43:11 +0000",
       "minecraft:skeleton": "2025-06-12 23:38:38 +0000",
+      "minecraft:creeper": "2025-06-18 23:11:51 +0000",
       "minecraft:husk": "2025-06-14 00:44:51 +0000",
+      "minecraft:enderman": "2025-06-18 23:06:49 +0000",
       "minecraft:zombie": "2025-06-12 23:39:50 +0000",
       "minecraft:drowned": "2025-06-14 15:34:06 +0000"
     },
@@ -7773,15 +7775,39 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-06-18 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/extreme_energy_upgrade": {
+    "criteria": {
+      "has_chunk": "2025-06-18 23:12:51 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-06-18 22:53:06 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/tnt_survivor_upgrade": {
+    "criteria": {
+      "has_chunk": "2025-06-18 23:12:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-06-18 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/time_manipulator_upgrade": {
+    "criteria": {
+      "has_chunk": "2025-06-18 23:12:51 +0000"
     },
     "done": true
   },
