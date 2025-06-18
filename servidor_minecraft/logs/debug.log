@@ -16716,3 +16716,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [18Jun2025 17:42:34.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 17:44:58.438] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@19945998 for service interface com.blamejared.clumps.platform.IEventHelper
 [18Jun2025 17:44:58.439] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7f7d2b47 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[18Jun2025 17:47:34.675] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 17:47:34.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 17:47:34.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 17:52:34.678] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 17:52:34.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 17:52:34.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
