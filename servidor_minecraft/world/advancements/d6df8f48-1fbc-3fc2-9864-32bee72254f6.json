@@ -7823,5 +7823,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-18 23:38:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

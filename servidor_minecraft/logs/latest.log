@@ -9985,3 +9985,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [18Jun2025 23:27:18.753] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'samuel0806'
 [18Jun2025 23:27:18.754] [Server thread/INFO] [Jade/]: Syncing config to samuel0806 (d6df8f48-1fbc-3fc2-9864-32bee72254f6)
 [18Jun2025 23:27:20.163] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was loaded
+[18Jun2025 23:38:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Lorem Ipsum]
+[18Jun2025 23:46:01.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[18Jun2025 23:46:23.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[18Jun2025 23:46:42.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[18Jun2025 23:46:55.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
