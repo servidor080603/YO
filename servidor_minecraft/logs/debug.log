@@ -17172,3 +17172,240 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [18Jun2025 23:48:20.974] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
 [18Jun2025 23:48:20.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 23:48:20.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 23:49:26.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [The Journey Begins]
+[18Jun2025 23:50:15.331] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -3760 -56 446 in 1s
+[18Jun2025 23:50:27.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.3768633580966707
+[18Jun2025 23:50:27.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9553787852660207
+[18Jun2025 23:50:27.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.641794214087895
+[18Jun2025 23:53:20.976] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 23:53:20.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 23:53:20.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 23:53:59.748] [Worker-Main-64/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 23:53:59.749] [Worker-Main-64/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 23:54:00.497] [Worker-Main-64/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Jun2025 23:54:35.463] [Worker-Main-64/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Jun2025 23:55:41.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:55:41.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-2940.70, y=64.00, z=-1585.38], To: Spider['Spider'/24014, l='ServerLevel[world]', x=-2939.23, y=64.12, z=-1584.62]
+[18Jun2025 23:55:41.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:55:45.120] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:55:45.120] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-2939.92, y=64.00, z=-1585.30], To: Spider['Spider'/24014, l='ServerLevel[world]', x=-2938.19, y=62.60, z=-1583.26]
+[18Jun2025 23:55:45.120] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:56:49.720] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:56:49.721] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3263.83, y=63.23, z=-1072.47], To: Spider['Spider'/25398, l='ServerLevel[world]', x=-3264.10, y=63.88, z=-1074.10]
+[18Jun2025 23:56:49.721] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:56:50.469] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:56:50.469] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3262.70, y=63.43, z=-1070.89], To: Spider['Spider'/25398, l='ServerLevel[world]', x=-3262.44, y=63.00, z=-1072.46]
+[18Jun2025 23:56:50.469] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[18Jun2025 23:57:59.130] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:57:59.130] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3270.24, y=85.15, z=-975.13], To: Spider['Spider'/25973, l='ServerLevel[world]', x=-3271.16, y=85.00, z=-973.49]
+[18Jun2025 23:57:59.130] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.0 to 3.6
+[18Jun2025 23:58:19.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.4160762714724342
+[18Jun2025 23:58:19.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.1956199206629208
+[18Jun2025 23:58:19.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.6127381849211133
+[18Jun2025 23:58:20.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.835929851684682
+[18Jun2025 23:58:20.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.9553552626081228
+[18Jun2025 23:58:20.992] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[18Jun2025 23:58:21.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 23:58:21.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 23:58:24.056] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:58:24.056] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3391.13, y=64.00, z=-757.58], To: Spider['Spider'/27508, l='ServerLevel[world]', x=-3391.16, y=65.15, z=-755.84]
+[18Jun2025 23:58:24.056] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 4.3039994 to 5.164799
+[18Jun2025 23:58:24.699] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:58:24.699] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3391.14, y=64.00, z=-756.78], To: Spider['Spider'/27508, l='ServerLevel[world]', x=-3391.17, y=65.14, z=-755.34]
+[18Jun2025 23:58:24.699] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:58:25.344] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:58:25.344] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3391.15, y=64.00, z=-756.09], To: Spider['Spider'/27508, l='ServerLevel[world]', x=-3391.15, y=64.94, z=-755.06]
+[18Jun2025 23:58:25.344] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:58:37.084] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:58:37.084] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3352.90, y=72.30, z=-701.12], To: Spider['Spider'/27442, l='ServerLevel[world]', x=-3352.55, y=71.00, z=-699.46]
+[18Jun2025 23:58:37.084] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.0 to 3.6
+[18Jun2025 23:58:40.644] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:58:40.644] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3350.69, y=70.00, z=-691.15], To: Spider['Spider'/27442, l='ServerLevel[world]', x=-3350.59, y=71.94, z=-692.36]
+[18Jun2025 23:58:40.645] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:58:41.910] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:58:41.910] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3349.77, y=70.00, z=-691.47], To: Spider['Spider'/27442, l='ServerLevel[world]', x=-3351.05, y=71.00, z=-691.39]
+[18Jun2025 23:58:41.910] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:59:45.408] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:59:45.408] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3347.99, y=93.00, z=-488.54], To: Spider['Spider'/28323, l='ServerLevel[world]', x=-3345.49, y=93.00, z=-487.39]
+[18Jun2025 23:59:45.408] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:59:45.892] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[18Jun2025 23:59:45.892] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3346.98, y=93.00, z=-487.94], To: Spider['Spider'/28323, l='ServerLevel[world]', x=-3344.29, y=93.00, z=-487.16]
+[18Jun2025 23:59:45.892] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[18Jun2025 23:59:56.072] [Worker-Main-78/WARN] [com.cupboard.Cupboard/]: A mod is trying to add an entity from offthread, this should be avoided. Printing trace:
+java.lang.Exception: null
+	at net.minecraft.server.level.ServerLevel.handler$zjk000$OnaddEntity(ServerLevel.java:1655) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.peeko32213.unusualprehistory.common.world.feature.IceFossilFeature.addFossil(IceFossilFeature.java:201) ~[unusualprehistory-1.5.0.3.jar%23328!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.world.feature.IceFossilFeature.m_142674_(IceFossilFeature.java:65) ~[unusualprehistory-1.5.0.3.jar%23328!/:1.5.0.3]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[19Jun2025 00:00:04.021] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[19Jun2025 00:00:04.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! -17.853065383513695,2.421600046157849,5.0479613219090425
+[19Jun2025 00:00:05.583] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:00:05.583] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3408.43, y=69.93, z=-382.80], To: RadioactiveOwlEntity[' radioactive_owl  ❤183'/28073, l='ServerLevel[world]', x=-3408.43, y=71.15, z=-382.80]
+[19Jun2025 00:00:05.583] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.0 to 3.6
+[19Jun2025 00:00:06.510] [Server thread/WARN] [com.alaharranhonor.swem.forge.ModRef/]: Could not find entity with id: 28073 requested by samuel0806
+[19Jun2025 00:00:06.511] [Server thread/WARN] [com.alaharranhonor.swem.forge.ModRef/]: Could not find entity with id: 28073 requested by samuel0806
+[19Jun2025 00:00:08.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was doomed to fall by  radioactive_owl  ❤182
+[19Jun2025 00:00:08.851] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_19.06.2025-00.00.08.dat
+[19Jun2025 00:00:08.854] [Server thread/DEBUG] [tombstone/]: A new grave of the player samuel0806 was created at position [x:-3411, y:70, z:-381, dim:minecraft:overworld]
+[19Jun2025 00:00:08.856] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[19Jun2025 00:00:23.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[19Jun2025 00:01:22.118] [Worker-Main-79/DEBUG] [com.bobmowzie.mowziesmobs.MowziesMobs/]: Monastery at BlockPos{x=-3448, y=0, z=-1912}
+[19Jun2025 00:02:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[19Jun2025 00:02:57.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:02:57.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3387.70, y=71.18, z=-420.03], To: Spider['Spider'/32641, l='ServerLevel[world]', x=-3390.28, y=70.00, z=-418.91]
+[19Jun2025 00:02:57.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[19Jun2025 00:03:06.844] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:03:06.844] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3410.46, y=70.00, z=-385.18], To: SwarmEntity['Swarm'/33410, l='ServerLevel[world]', x=-3408.25, y=70.44, z=-386.42]
+[19Jun2025 00:03:06.844] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 5.0 to 6.0
+[19Jun2025 00:03:20.967] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[19Jun2025 00:03:20.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:03:20.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:04:41.436] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:04:41.437] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3392.15, y=70.00, z=-363.44], To: SwarmEntity['Swarm'/33916, l='ServerLevel[world]', x=-3394.89, y=70.00, z=-364.15]
+[19Jun2025 00:04:41.437] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0 to 2.4
+[19Jun2025 00:04:44.835] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:04:44.835] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3372.37, y=70.25, z=-366.50], To: SwarmEntity['Swarm'/33916, l='ServerLevel[world]', x=-3374.98, y=70.78, z=-365.78]
+[19Jun2025 00:04:44.835] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0 to 2.4
+[19Jun2025 00:04:52.077] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:04:52.078] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3369.86, y=71.00, z=-342.98], To: SwarmEntity['Swarm'/33916, l='ServerLevel[world]', x=-3368.63, y=72.67, z=-344.70]
+[19Jun2025 00:04:52.078] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.0 to 3.6
+[19Jun2025 00:06:24.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.29948956791312753
+[19Jun2025 00:06:24.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9652064453830747
+[19Jun2025 00:06:24.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.6932305345615362
+[19Jun2025 00:07:31.472] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[19Jun2025 00:08:20.978] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[19Jun2025 00:08:20.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:08:21.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:09:22.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:09:22.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3463.18, y=2.06, z=610.91], To: MaggotEntity['Corpse Maggot'/38161, l='ServerLevel[world]', x=-3463.50, y=1.00, z=612.50]
+[19Jun2025 00:09:22.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0 to 1.2
+[19Jun2025 00:09:22.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:09:22.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3463.18, y=2.06, z=610.91], To: MaggotEntity['Corpse Maggot'/38162, l='ServerLevel[world]', x=-3463.50, y=1.00, z=612.50]
+[19Jun2025 00:09:22.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0 to 1.2
+[19Jun2025 00:09:22.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:09:22.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3463.18, y=2.06, z=610.91], To: MaggotEntity['Corpse Maggot'/38163, l='ServerLevel[world]', x=-3463.50, y=1.00, z=612.50]
+[19Jun2025 00:09:22.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0 to 1.2
+[19Jun2025 00:09:37.241] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:09:37.241] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3462.06, y=-1.00, z=612.53], To: MaggotEntity['Corpse Maggot'/38162, l='ServerLevel[world]', x=-3462.70, y=-0.98, z=611.88]
+[19Jun2025 00:09:37.241] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 6.0 to 7.2
+[19Jun2025 00:09:37.290] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:09:37.290] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3462.19, y=-1.00, z=612.39], To: MaggotEntity['Corpse Maggot'/38161, l='ServerLevel[world]', x=-3461.67, y=-1.00, z=612.40]
+[19Jun2025 00:09:37.290] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 4.0 to 4.8
+[19Jun2025 00:09:39.989] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:09:39.989] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3464.24, y=-1.00, z=614.05], To: MaggotEntity['Corpse Maggot'/38161, l='ServerLevel[world]', x=-3462.45, y=-1.00, z=612.98]
+[19Jun2025 00:09:39.989] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[19Jun2025 00:09:41.289] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:09:41.289] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3462.86, y=-0.50, z=612.75], To: MaggotEntity['Corpse Maggot'/38163, l='ServerLevel[world]', x=-3462.32, y=-1.00, z=612.24]
+[19Jun2025 00:09:41.289] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.0 to 3.6
+[19Jun2025 00:09:43.743] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:09:43.743] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3461.74, y=0.00, z=611.28], To: MaggotEntity['Corpse Maggot'/38163, l='ServerLevel[world]', x=-3462.59, y=-1.00, z=612.56]
+[19Jun2025 00:09:43.743] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[19Jun2025 00:13:20.981] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[19Jun2025 00:13:20.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:13:21.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:13:23.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Void Blossom
+[19Jun2025 00:13:23.246] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_19.06.2025-00.13.23.dat
+[19Jun2025 00:13:23.247] [Server thread/DEBUG] [tombstone/]: A new grave of the player samuel0806 was created at position [x:-3487, y:-51, z:624, dim:minecraft:overworld]
+[19Jun2025 00:13:23.257] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[19Jun2025 00:13:33.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Spectator Mode]
+[19Jun2025 00:15:05.464] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2816, y=9, z=-942} but found not block entity block Block{minecraft:water}[level=0] at location
+[19Jun2025 00:15:05.464] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-2816, y=9, z=-942}
+[19Jun2025 00:15:18.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[19Jun2025 00:15:47.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Spectator Mode]
+[19Jun2025 00:16:20.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set the time to 1000]
+[19Jun2025 00:16:27.271] [Worker-Main-64/WARN] [com.cupboard.Cupboard/]: A mod is trying to add an entity from offthread, this should be avoided. Printing trace:
+java.lang.Exception: null
+	at net.minecraft.server.level.ServerLevel.handler$zjk000$OnaddEntity(ServerLevel.java:1655) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.peeko32213.unusualprehistory.common.world.feature.IceFossilFeature.addFossil(IceFossilFeature.java:201) ~[unusualprehistory-1.5.0.3.jar%23328!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.world.feature.IceFossilFeature.m_142674_(IceFossilFeature.java:65) ~[unusualprehistory-1.5.0.3.jar%23328!/:1.5.0.3]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[19Jun2025 00:16:53.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [The Cave That Time Forgot]
+[19Jun2025 00:18:20.978] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[19Jun2025 00:18:20.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:18:21.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:18:35.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[19Jun2025 00:19:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]

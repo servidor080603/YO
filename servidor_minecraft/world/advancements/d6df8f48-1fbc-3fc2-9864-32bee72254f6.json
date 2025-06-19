@@ -96,6 +96,7 @@
       "minecraft:swamp": "2025-06-17 22:42:21 +0000",
       "minecraft:cold_ocean": "2025-06-18 22:00:39 +0000",
       "minecraft:forest": "2025-06-12 22:54:14 +0000",
+      "minecraft:lush_caves": "2025-06-19 00:08:31 +0000",
       "minecraft:frozen_ocean": "2025-06-18 20:14:48 +0000",
       "minecraft:desert": "2025-06-13 01:49:17 +0000",
       "minecraft:windswept_forest": "2025-06-17 22:46:28 +0000",
@@ -2883,6 +2884,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-18 18:43:11 +0000",
       "minecraft:skeleton": "2025-06-12 23:38:38 +0000",
+      "minecraft:spider": "2025-06-18 23:55:45 +0000",
       "minecraft:creeper": "2025-06-18 23:11:51 +0000",
       "minecraft:husk": "2025-06-14 00:44:51 +0000",
       "minecraft:enderman": "2025-06-18 23:06:49 +0000",
@@ -7823,9 +7825,27 @@
     },
     "done": true
   },
+  "scguns:main/sulfur_chunk": {
+    "criteria": {
+      "sulfur_chunk": "2025-06-19 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-18 23:49:26 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-06-18 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-06-19 00:16:53 +0000"
     },
     "done": true
   },
