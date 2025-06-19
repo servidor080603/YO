@@ -111,3 +111,11 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [19Jun2025 00:34:56.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was blown up by Ghast
 [19Jun2025 00:34:56.652] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_19.06.2025-00.34.56.dat
 [19Jun2025 00:34:56.938] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[19Jun2025 00:47:55.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.25592990848730324
+[19Jun2025 00:47:55.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.6218350639907726
+[19Jun2025 00:47:55.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.054492259323716
+[19Jun2025 00:48:29.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 burned to death
+[19Jun2025 00:48:29.644] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_19.06.2025-00.48.29.dat
+[19Jun2025 00:48:29.646] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[19Jun2025 00:49:06.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[19Jun2025 00:49:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
