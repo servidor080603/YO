@@ -71,3 +71,43 @@ java.lang.Exception: null
 [19Jun2025 00:16:53.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has reached the goal [The Cave That Time Forgot]
 [19Jun2025 00:18:35.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
 [19Jun2025 00:19:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[19Jun2025 00:19:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Void Blossom
+[19Jun2025 00:19:10.202] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[19Jun2025 00:19:23.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[19Jun2025 00:20:42.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[19Jun2025 00:22:22.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Spectator Mode]
+[19Jun2025 00:23:20.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[19Jun2025 00:25:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [We Need to Go Deeper]
+[19Jun2025 00:25:31.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3070ms or 61 ticks behind
+[19Jun2025 00:28:24.049] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.goblintraders.vein_goblin_trader has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157578_(PersistentEntitySectionManager.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:756) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:149) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157554_(PersistentEntitySectionManager.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_195514_(MinecraftServer.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:824) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Bound must be positive
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.mrcrayfish.goblintraders.entity.VeinGoblinTrader.populateTradeData(VeinGoblinTrader.java:55) ~[goblintraders-forge-1.20.1-1.9.3.jar%23264!/:1.20.1-1.9.3]
+	at com.mrcrayfish.goblintraders.entity.AbstractGoblinEntity.m_6616_(AbstractGoblinEntity.java:207) ~[goblintraders-forge-1.20.1-1.9.3.jar%23264!/:1.20.1-1.9.3]
+	at com.mrcrayfish.goblintraders.entity.AbstractGoblinEntity.m_7380_(AbstractGoblinEntity.java:417) ~[goblintraders-forge-1.20.1-1.9.3.jar%23264!/:1.20.1-1.9.3]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	... 19 more
+[19Jun2025 00:34:56.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was blown up by Ghast
+[19Jun2025 00:34:56.652] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_19.06.2025-00.34.56.dat
+[19Jun2025 00:34:56.938] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved

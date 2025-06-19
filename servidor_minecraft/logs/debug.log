@@ -17409,3 +17409,89 @@ java.lang.Exception: null
 [19Jun2025 00:18:21.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jun2025 00:18:35.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
 [19Jun2025 00:19:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[19Jun2025 00:19:08.681] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:19:08.681] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-3488.93, y=-51.00, z=625.70], To: VoidBlossomEntity['Void Blossom'/41632, l='ServerLevel[world]', x=-3468.50, y=-59.00, z=611.50]
+[19Jun2025 00:19:08.681] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 5.0 to 6.0
+[19Jun2025 00:19:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Void Blossom
+[19Jun2025 00:19:10.185] [Server thread/DEBUG] [tombstone/]: A new grave of the player samuel0806 was created at position [x:-3490, y:-54, z:625, dim:minecraft:overworld]
+[19Jun2025 00:19:10.202] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[19Jun2025 00:19:23.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[19Jun2025 00:20:42.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[19Jun2025 00:22:22.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Spectator Mode]
+[19Jun2025 00:23:20.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[19Jun2025 00:23:20.979] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[19Jun2025 00:23:20.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:23:21.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:25:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [We Need to Go Deeper]
+[19Jun2025 00:25:31.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3070ms or 61 ticks behind
+[19Jun2025 00:28:24.008] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[19Jun2025 00:28:24.014] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[19Jun2025 00:28:24.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[19Jun2025 00:28:24.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[19Jun2025 00:28:24.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[19Jun2025 00:28:24.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[19Jun2025 00:28:24.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[19Jun2025 00:28:24.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[19Jun2025 00:28:24.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[19Jun2025 00:28:24.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[19Jun2025 00:28:24.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[19Jun2025 00:28:24.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[19Jun2025 00:28:24.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[19Jun2025 00:28:24.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[19Jun2025 00:28:24.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[19Jun2025 00:28:24.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[19Jun2025 00:28:24.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[19Jun2025 00:28:24.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[19Jun2025 00:28:24.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[19Jun2025 00:28:24.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[19Jun2025 00:28:24.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[19Jun2025 00:28:24.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[19Jun2025 00:28:24.029] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[19Jun2025 00:28:24.031] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@43d76a92
+[19Jun2025 00:28:24.031] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[19Jun2025 00:28:24.044] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[19Jun2025 00:28:24.045] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[19Jun2025 00:28:24.049] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.goblintraders.vein_goblin_trader has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157578_(PersistentEntitySectionManager.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:756) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:149) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157554_(PersistentEntitySectionManager.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_195514_(MinecraftServer.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:824) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Bound must be positive
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at com.mrcrayfish.goblintraders.entity.VeinGoblinTrader.populateTradeData(VeinGoblinTrader.java:55) ~[goblintraders-forge-1.20.1-1.9.3.jar%23264!/:1.20.1-1.9.3]
+	at com.mrcrayfish.goblintraders.entity.AbstractGoblinEntity.m_6616_(AbstractGoblinEntity.java:207) ~[goblintraders-forge-1.20.1-1.9.3.jar%23264!/:1.20.1-1.9.3]
+	at com.mrcrayfish.goblintraders.entity.AbstractGoblinEntity.m_7380_(AbstractGoblinEntity.java:417) ~[goblintraders-forge-1.20.1-1.9.3.jar%23264!/:1.20.1-1.9.3]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	... 19 more
+[19Jun2025 00:28:24.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:28:24.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:33:24.002] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[19Jun2025 00:33:24.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:33:24.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:34:56.583] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[19Jun2025 00:34:56.583] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/15554, l='ServerLevel[world]', x=-361.44, y=37.25, z=-349.52], To: Ghast['Ghast'/49412, l='ServerLevel[world]', x=-352.11, y=24.22, z=-392.75]
+[19Jun2025 00:34:56.583] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 6.0 to 7.2
+[19Jun2025 00:34:56.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was blown up by Ghast
+[19Jun2025 00:34:56.652] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_19.06.2025-00.34.56.dat
+[19Jun2025 00:34:56.653] [Server thread/DEBUG] [tombstone/]: A new grave of the player samuel0806 was created at position [x:-362, y:36, z:-350, dim:minecraft:the_nether]
+[19Jun2025 00:34:56.938] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[19Jun2025 00:38:24.022] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[19Jun2025 00:38:24.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:38:24.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

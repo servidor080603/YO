@@ -926,6 +926,7 @@
       "potato": "2025-06-17 18:51:42 +0000",
       "bread": "2025-06-17 20:37:51 +0000",
       "golden_carrot": "2025-06-13 02:19:17 +0000",
+      "enchanted_golden_apple": "2025-06-19 00:18:45 +0000",
       "cooked_salmon": "2025-06-12 23:47:48 +0000"
     },
     "done": false
@@ -7825,6 +7826,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_dust": "2025-06-19 00:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-19 00:25:32 +0000"
+    },
+    "done": false
+  },
   "scguns:main/sulfur_chunk": {
     "criteria": {
       "sulfur_chunk": "2025-06-19 00:10:39 +0000"
@@ -7843,9 +7856,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-19 00:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-19 00:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-19 00:25:30 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-06-19 00:25:30 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-06-19 00:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-19 00:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-19 00:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-19 00:18:42 +0000"
     },
     "done": true
   },
