@@ -9965,3 +9965,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [20Jun2025 02:03:31.170] [Server thread/INFO] [Jade/]: Syncing config to samuel0806 (d6df8f48-1fbc-3fc2-9864-32bee72254f6)
 [20Jun2025 02:03:32.867] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d6df8f48-1fbc-3fc2-9864-32bee72254f6 was loaded
 [20Jun2025 02:03:32.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[20Jun2025 02:27:35.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GusnowEntity[' gusnow  ❤6'/6873, l='ServerLevel[world]', x=-3248.00, y=64.00, z=-1092.16] died:  gusnow  ❤6 was slain by samuel0806
