@@ -2889,6 +2889,7 @@
       "minecraft:spider": "2025-06-18 23:55:45 +0000",
       "minecraft:creeper": "2025-06-18 23:11:51 +0000",
       "minecraft:husk": "2025-06-14 00:44:51 +0000",
+      "minecraft:cave_spider": "2025-06-20 02:17:32 +0000",
       "minecraft:piglin": "2025-06-19 00:54:15 +0000",
       "minecraft:enderman": "2025-06-18 23:06:49 +0000",
       "minecraft:zombie": "2025-06-12 23:39:50 +0000",
@@ -8222,6 +8223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-20 02:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-06-20 02:05:34 +0000"
@@ -8231,6 +8238,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-06-20 02:04:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-20 02:13:25 +0000"
     },
     "done": true
   },
