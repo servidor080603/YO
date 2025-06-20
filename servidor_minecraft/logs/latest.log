@@ -9976,3 +9976,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [20Jun2025 01:13:15.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 8.801604297813356,-3.7799998819828033,6.565591778638918
 [20Jun2025 01:13:15.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 8.788617942143446,-3.7799998819828033,6.584086251430563
 [20Jun2025 01:13:15.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 7.689071243998569,-3.359999895095825,6.024053465706402
+[20Jun2025 01:24:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Best Friends Forever]
