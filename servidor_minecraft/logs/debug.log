@@ -17006,3 +17006,226 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [20Jun2025 02:39:51.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.724697636448127
 [20Jun2025 02:39:51.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.40115103955167797
 [20Jun2025 02:40:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Hot Stuff]
+[20Jun2025 02:42:59.847] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 02:42:59.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 02:42:59.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 02:46:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samuel0806> WWWW+
+[20Jun2025 02:47:17.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:17.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.58, y=64.00, z=-2892.39], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2538.42, y=64.00, z=-2891.95]
+[20Jun2025 02:47:17.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 02:47:18.914] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:18.914] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.68, y=64.00, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2539.07, y=65.48, z=-2892.20]
+[20Jun2025 02:47:18.914] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 02:47:20.054] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:20.054] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.68, y=64.00, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2539.07, y=65.70, z=-2892.39]
+[20Jun2025 02:47:20.055] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 02:47:20.601] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:20.601] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.68, y=64.00, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2538.15, y=64.00, z=-2892.51]
+[20Jun2025 02:47:20.601] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 02:47:21.414] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:21.414] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.68, y=64.00, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2537.84, y=65.48, z=-2892.58]
+[20Jun2025 02:47:21.414] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 02:47:23.304] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:23.304] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.68, y=64.00, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2538.89, y=64.00, z=-2892.53]
+[20Jun2025 02:47:23.304] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 02:47:24.351] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:24.351] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.68, y=65.02, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2538.90, y=64.92, z=-2892.53]
+[20Jun2025 02:47:24.351] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 11.063998 to 13.276798
+[20Jun2025 02:47:26.603] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:26.604] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2541.08, y=65.25, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2539.07, y=64.00, z=-2892.24]
+[20Jun2025 02:47:26.604] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 02:47:27.951] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:27.951] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2541.08, y=65.18, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2539.07, y=65.24, z=-2892.24]
+[20Jun2025 02:47:27.951] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 02:47:30.437] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:30.437] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.75, y=64.50, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2539.07, y=65.48, z=-2892.42]
+[20Jun2025 02:47:30.437] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 6.223999 to 7.4687986
+[20Jun2025 02:47:31.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:47:31.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2540.69, y=64.50, z=-2892.27], To: SkinwalkerEntity['Skinwalker'/17757, l='ServerLevel[world]', x=-2536.09, y=64.00, z=-2892.61]
+[20Jun2025 02:47:31.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 02:47:59.843] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 02:47:59.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 02:47:59.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 02:48:13.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:48:13.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2574.97, y=66.02, z=-2938.03], To: Spider['Spider'/17220, l='ServerLevel[world]', x=-2574.50, y=64.00, z=-2939.18]
+[20Jun2025 02:48:13.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 02:48:15.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:48:15.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2574.59, y=65.12, z=-2938.76], To: Spider['Spider'/17220, l='ServerLevel[world]', x=-2574.40, y=64.63, z=-2939.18]
+[20Jun2025 02:48:15.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 02:48:57.004] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:48:57.005] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2419.89, y=64.02, z=-2467.77], To: Sheep['Sheep'/18292, l='ServerLevel[world]', x=-2420.34, y=63.00, z=-2469.73]
+[20Jun2025 02:48:57.005] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 02:49:12.799] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:49:12.799] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-2417.73, y=63.80, z=-2459.67], To: Sheep['Sheep'/18295, l='ServerLevel[world]', x=-2418.52, y=64.00, z=-2460.12]
+[20Jun2025 02:49:12.799] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 02:52:24.883] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[20Jun2025 02:52:59.854] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 02:52:59.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 02:52:59.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 02:53:00.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[20Jun2025 02:53:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[20Jun2025 02:57:34.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eva'/21547, l='ServerLevel[world]', x=-8612.13, y=62.94, z=-904.80] died, message: 'Eva was slain by Wendigo'
+[20Jun2025 02:57:39.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emery'/21963, l='ServerLevel[world]', x=-8622.94, y=62.35, z=-913.91] died, message: 'Emery was slain by Wendigo'
+[20Jun2025 02:57:59.842] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 02:57:59.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 02:57:59.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 02:58:05.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[20Jun2025 02:59:29.666] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:59:29.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8319.30, y=98.18, z=-781.74], To: Pig['Pig'/25565, l='ServerLevel[world]', x=-8318.45, y=99.00, z=-784.16]
+[20Jun2025 02:59:29.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 02:59:40.503] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:59:40.503] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8322.85, y=97.25, z=-780.11], To: Pig['Pig'/25563, l='ServerLevel[world]', x=-8320.45, y=96.42, z=-780.41]
+[20Jun2025 02:59:40.503] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 02:59:41.158] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 02:59:41.158] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8321.01, y=97.18, z=-779.89], To: Pig['Pig'/25563, l='ServerLevel[world]', x=-8320.01, y=97.00, z=-781.03]
+[20Jun2025 02:59:41.158] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:00:29.955] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:00:29.955] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8313.30, y=105.00, z=-783.53], To: Pig['Pig'/25564, l='ServerLevel[world]', x=-8313.48, y=105.00, z=-784.90]
+[20Jun2025 03:00:29.955] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:00:37.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:00:37.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8322.04, y=99.00, z=-787.01], To: Pig['Pig'/25564, l='ServerLevel[world]', x=-8318.44, y=102.00, z=-787.48]
+[20Jun2025 03:00:37.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.7289598 to 3.2747517
+[20Jun2025 03:01:50.127] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:01:50.127] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8047.26, y=106.85, z=-957.47], To: Pig['Pig'/26894, l='ServerLevel[world]', x=-8046.49, y=105.00, z=-956.38]
+[20Jun2025 03:01:50.127] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:01:51.371] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:01:51.371] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8046.53, y=106.18, z=-957.02], To: Pig['Pig'/26897, l='ServerLevel[world]', x=-8044.96, y=107.00, z=-956.53]
+[20Jun2025 03:01:51.371] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:01:53.113] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:01:53.114] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8045.30, y=106.74, z=-958.12], To: Pig['Pig'/26895, l='ServerLevel[world]', x=-8045.81, y=106.00, z=-959.31]
+[20Jun2025 03:01:53.114] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:01:56.954] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:01:56.954] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8041.61, y=110.18, z=-960.96], To: Pig['Pig'/26896, l='ServerLevel[world]', x=-8043.89, y=108.85, z=-958.50]
+[20Jun2025 03:01:56.954] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:02:05.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved wrongly!
+[20Jun2025 03:02:10.969] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:10.969] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=112.00, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8007.93, y=110.00, z=-963.08]
+[20Jun2025 03:02:10.969] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:11.560] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:11.561] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=112.42, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8008.72, y=110.00, z=-962.95]
+[20Jun2025 03:02:11.561] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:12.662] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:12.663] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=112.12, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8008.03, y=110.00, z=-963.01]
+[20Jun2025 03:02:12.663] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:13.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:13.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=112.12, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8008.26, y=110.00, z=-962.95]
+[20Jun2025 03:02:13.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:13.858] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:13.858] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=112.12, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8009.01, y=110.00, z=-962.79]
+[20Jun2025 03:02:13.858] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:16.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:16.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=113.17, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8008.05, y=110.00, z=-963.02]
+[20Jun2025 03:02:16.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:17.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:17.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=113.00, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8008.24, y=110.00, z=-962.95]
+[20Jun2025 03:02:17.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:18.760] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:18.760] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=112.42, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8008.14, y=110.00, z=-962.96]
+[20Jun2025 03:02:18.760] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:19.319] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:02:19.319] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-8006.65, y=112.00, z=-963.30], To: GiantBoarEntity['Giant Boar'/27355, l='ServerLevel[world]', x=-8008.92, y=110.00, z=-962.79]
+[20Jun2025 03:02:19.319] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:02:59.855] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 03:02:59.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 03:02:59.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 03:06:29.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.48813643315497757
+[20Jun2025 03:06:29.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9283379106245775
+[20Jun2025 03:06:29.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.1638809445476
+[20Jun2025 03:06:29.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.2899153257785656
+[20Jun2025 03:06:46.471] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[20Jun2025 03:07:41.066] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:41.067] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6962.40, y=73.02, z=-890.07], To: EntityBison['Bison'/32621, l='ServerLevel[world]', x=-6963.22, y=72.00, z=-892.93]
+[20Jun2025 03:07:41.067] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:07:42.937] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:42.937] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6960.87, y=73.00, z=-889.56], To: EntityBison['Bison'/32621, l='ServerLevel[world]', x=-6963.57, y=72.00, z=-891.88]
+[20Jun2025 03:07:42.938] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:44.162] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:44.162] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6960.63, y=73.00, z=-890.50], To: EntityBison['Bison'/32621, l='ServerLevel[world]', x=-6963.12, y=72.00, z=-892.51]
+[20Jun2025 03:07:44.162] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:44.712] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:44.712] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6960.38, y=73.00, z=-890.22], To: EntityBison['Bison'/32621, l='ServerLevel[world]', x=-6963.91, y=72.00, z=-893.44]
+[20Jun2025 03:07:44.713] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:45.666] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:45.666] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6961.73, y=72.00, z=-891.38], To: EntityBison['Bison'/32621, l='ServerLevel[world]', x=-6964.56, y=72.00, z=-893.39]
+[20Jun2025 03:07:45.666] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:48.830] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:48.830] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6962.03, y=72.00, z=-894.25], To: EntityBison['Bison'/32623, l='ServerLevel[world]', x=-6963.95, y=72.00, z=-897.01]
+[20Jun2025 03:07:48.831] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:50.470] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:50.471] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6963.26, y=72.00, z=-897.80], To: EntityBison['Bison'/32623, l='ServerLevel[world]', x=-6966.38, y=72.00, z=-899.66]
+[20Jun2025 03:07:50.471] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:51.007] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:51.007] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6963.54, y=72.00, z=-900.45], To: EntityBison['Bison'/32623, l='ServerLevel[world]', x=-6968.01, y=73.00, z=-900.53]
+[20Jun2025 03:07:51.008] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:52.218] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:52.218] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6966.70, y=72.00, z=-902.65], To: EntityBison['Bison'/32623, l='ServerLevel[world]', x=-6970.00, y=73.00, z=-900.54]
+[20Jun2025 03:07:52.218] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:53.362] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:53.362] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6968.70, y=72.00, z=-900.77], To: EntityBison['Bison'/32623, l='ServerLevel[world]', x=-6970.82, y=73.00, z=-899.87]
+[20Jun2025 03:07:53.362] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:54.387] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:54.387] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6968.74, y=73.25, z=-899.55], To: EntityBison['Bison'/32620, l='ServerLevel[world]', x=-6970.85, y=73.00, z=-896.52]
+[20Jun2025 03:07:54.387] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:55.013] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:55.013] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6968.97, y=74.71, z=-898.97], To: EntityBison['Bison'/32620, l='ServerLevel[world]', x=-6970.58, y=73.00, z=-896.02]
+[20Jun2025 03:07:55.013] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:07:55.606] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:55.606] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6968.97, y=74.25, z=-898.52], To: EntityBison['Bison'/32620, l='ServerLevel[world]', x=-6971.35, y=73.00, z=-894.58]
+[20Jun2025 03:07:55.606] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:07:56.852] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:56.852] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6968.35, y=74.18, z=-895.06], To: EntityBison['Bison'/32620, l='ServerLevel[world]', x=-6971.02, y=73.00, z=-894.56]
+[20Jun2025 03:07:56.852] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.0 to 3.6
+[20Jun2025 03:07:56.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:56.898] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6968.36, y=73.80, z=-894.70], To: EntityBison['Bison'/32620, l='ServerLevel[world]', x=-6971.41, y=73.36, z=-894.49]
+[20Jun2025 03:07:56.898] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.0 to 3.6
+[20Jun2025 03:07:59.413] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:07:59.413] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6969.54, y=73.00, z=-891.85], To: EntityBison['Bison'/32620, l='ServerLevel[world]', x=-6969.44, y=73.00, z=-894.37]
+[20Jun2025 03:07:59.413] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 7.375999 to 8.851199
+[20Jun2025 03:07:59.888] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 03:07:59.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 03:07:59.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 03:08:01.107] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:01.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6973.14, y=73.50, z=-891.49], To: EntityBison['Bison'/32624, l='ServerLevel[world]', x=-6977.06, y=73.00, z=-893.14]
+[20Jun2025 03:08:01.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:08:01.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:01.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6974.86, y=73.50, z=-892.07], To: EntityBison['Bison'/32624, l='ServerLevel[world]', x=-6978.62, y=73.00, z=-893.87]
+[20Jun2025 03:08:01.659] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:08:02.224] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:02.224] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6976.14, y=74.02, z=-891.47], To: EntityBison['Bison'/32624, l='ServerLevel[world]', x=-6979.73, y=73.00, z=-894.66]
+[20Jun2025 03:08:02.224] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 11.063998 to 13.276798
+[20Jun2025 03:08:02.771] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:02.771] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6978.12, y=74.02, z=-891.32], To: EntityBison['Bison'/32624, l='ServerLevel[world]', x=-6980.46, y=73.00, z=-894.73]
+[20Jun2025 03:08:02.771] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:08:05.271] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:05.271] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6976.15, y=73.00, z=-897.46], To: EntityBison['Bison'/32625, l='ServerLevel[world]', x=-6973.73, y=73.00, z=-899.19]
+[20Jun2025 03:08:05.271] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:08:06.435] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:06.435] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6973.88, y=73.00, z=-898.50], To: EntityBison['Bison'/32625, l='ServerLevel[world]', x=-6971.02, y=73.00, z=-901.16]
+[20Jun2025 03:08:06.435] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:08:07.179] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:07.180] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6971.28, y=73.00, z=-898.44], To: EntityBison['Bison'/32625, l='ServerLevel[world]', x=-6970.12, y=73.00, z=-901.65]
+[20Jun2025 03:08:07.180] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:08:07.761] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:07.761] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6969.08, y=73.00, z=-899.59], To: EntityBison['Bison'/32625, l='ServerLevel[world]', x=-6969.54, y=73.00, z=-902.75]
+[20Jun2025 03:08:07.761] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:08:08.402] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:08.402] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6967.86, y=72.00, z=-901.29], To: EntityBison['Bison'/32625, l='ServerLevel[world]', x=-6969.76, y=73.00, z=-904.21]
+[20Jun2025 03:08:08.402] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:08:10.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:10.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6976.35, y=74.18, z=-903.57], To: EntityBison['Bison'/32622, l='ServerLevel[world]', x=-6980.69, y=74.00, z=-903.20]
+[20Jun2025 03:08:10.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 12.0 to 14.4
+[20Jun2025 03:08:11.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:11.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6980.39, y=75.25, z=-903.67], To: EntityBison['Bison'/32622, l='ServerLevel[world]', x=-6982.22, y=74.00, z=-903.30]
+[20Jun2025 03:08:11.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:08:12.321] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:12.321] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6980.89, y=75.25, z=-903.85], To: EntityBison['Bison'/32622, l='ServerLevel[world]', x=-6983.84, y=74.00, z=-903.21]
+[20Jun2025 03:08:12.321] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:08:12.912] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:12.912] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6981.43, y=75.25, z=-903.82], To: EntityBison['Bison'/32622, l='ServerLevel[world]', x=-6984.57, y=74.00, z=-903.22]
+[20Jun2025 03:08:12.912] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:08:13.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: death - Damage to non-undead
+[20Jun2025 03:08:13.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['samuel0806'/1316, l='ServerLevel[world]', x=-6982.70, y=75.25, z=-903.66], To: EntityBison['Bison'/32622, l='ServerLevel[world]', x=-6984.22, y=74.00, z=-903.26]
+[20Jun2025 03:08:13.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 8.0 to 9.6
+[20Jun2025 03:12:59.839] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 03:12:59.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 03:12:59.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

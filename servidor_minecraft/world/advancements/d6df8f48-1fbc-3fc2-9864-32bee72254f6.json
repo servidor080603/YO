@@ -8223,6 +8223,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-20 02:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-06-20 02:05:34 +0000"
@@ -8232,6 +8238,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-20 02:15:39 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/boots_riding_iron": {
+    "criteria": {
+      "has_riding_boots": "2025-06-20 02:55:35 +0000"
     },
     "done": true
   },

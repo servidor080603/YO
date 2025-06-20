@@ -9982,3 +9982,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [20Jun2025 02:39:51.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.724697636448127
 [20Jun2025 02:39:51.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.40115103955167797
 [20Jun2025 02:40:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Hot Stuff]
+[20Jun2025 02:46:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samuel0806> WWWW+
+[20Jun2025 02:53:00.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[20Jun2025 02:53:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[20Jun2025 02:57:34.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eva'/21547, l='ServerLevel[world]', x=-8612.13, y=62.94, z=-904.80] died, message: 'Eva was slain by Wendigo'
+[20Jun2025 02:57:39.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emery'/21963, l='ServerLevel[world]', x=-8622.94, y=62.35, z=-913.91] died, message: 'Emery was slain by Wendigo'
+[20Jun2025 02:58:05.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[20Jun2025 03:02:05.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved wrongly!
+[20Jun2025 03:06:29.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.48813643315497757
+[20Jun2025 03:06:29.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9283379106245775
+[20Jun2025 03:06:29.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.1638809445476
+[20Jun2025 03:06:29.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.2899153257785656
+[20Jun2025 03:06:46.471] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
