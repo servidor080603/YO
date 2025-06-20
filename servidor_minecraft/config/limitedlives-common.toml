@@ -3,7 +3,7 @@
 [general]
 	#Maximum lives a player can have before being "banned".
 	#Range: > 1
-	maxLives = 20
+	maxLives = 3
 	#Ban type once the player dies too many times.
 	#Accepts: SPECTATOR, BAN
 	#Allowed Values: SPECTATOR, BAN
@@ -19,7 +19,7 @@
 	timeRemainingMessageFrequency = 5
 	#How much health to change per death.
 	#Range: -20.0 ~ 20.0
-	healthAdjust = -1.0
+	healthAdjust = -0.0
 	#What's the maximum health reduction allowed before it caps out? Set to 0 to disable cap.
 	#Range: -500.0 ~ 0.0
 	maxHealthReduction = 0.0
