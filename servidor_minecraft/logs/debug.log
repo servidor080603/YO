@@ -16984,3 +16984,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [20Jun2025 02:27:59.858] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
 [20Jun2025 02:27:59.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jun2025 02:27:59.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 02:32:59.852] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 02:32:59.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 02:32:59.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 02:34:33.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! -3.899168578248009,0.0,9.584443065885353
+[20Jun2025 02:35:17.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 0.8489317055687025,-0.8693607381378712,-9.995524941911754
+[20Jun2025 02:35:17.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 0.8158158368564727,-1.4137501017104341,-10.474391507466862
+[20Jun2025 02:35:17.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 0.7862831042875769,-2.0134136581566224,-10.901444722936503
+[20Jun2025 02:35:17.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 0.759945812623755,-2.6661625504718245,-11.282290791468313
+[20Jun2025 02:37:50.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.38238446596005815
+[20Jun2025 02:37:50.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9693752357316043
+[20Jun2025 02:37:50.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.6658467592628767
+[20Jun2025 02:37:50.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.42519703675043274
+[20Jun2025 02:37:59.840] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[20Jun2025 02:37:59.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 02:37:59.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 02:38:31.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.5100136650889908
+[20Jun2025 02:38:31.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.2000581314565906
+[20Jun2025 02:39:51.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.36497492552780386
+[20Jun2025 02:39:51.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.0464825074400324
+[20Jun2025 02:39:51.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.724697636448127
+[20Jun2025 02:39:51.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.40115103955167797
+[20Jun2025 02:40:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Hot Stuff]
