@@ -7828,15 +7828,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
+      "cave_codex": "2025-06-18 23:38:37 +0000"
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/poison_upgrade": {
+  "alexscaves:alexscaves/cave_map": {
     "criteria": {
-      "has_dust": "2025-06-19 00:34:22 +0000"
+      "cave_map": "2025-06-18 23:49:26 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sulfur_chunk": {
+    "criteria": {
+      "sulfur_chunk": "2025-06-19 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-06-19 00:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-19 00:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-19 00:25:30 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-06-19 00:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-19 00:25:30 +0000"
     },
     "done": true
   },
@@ -7849,15 +7885,39 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
+      "has_netherrack": "2025-06-19 00:27:12 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/guts_sword": {
+  "rats:recipes/misc/upgrades/poison_upgrade": {
     "criteria": {
-      "has_item": "2025-06-19 00:58:05 +0000"
+      "has_dust": "2025-06-19 00:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-19 00:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-19 00:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-19 00:49:12 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sheol": {
+    "criteria": {
+      "sheol": "2025-06-19 00:54:12 +0000"
     },
     "done": true
   },
@@ -7867,63 +7927,45 @@
     },
     "done": true
   },
-  "scguns:main/sulfur_chunk": {
-    "criteria": {
-      "sulfur_chunk": "2025-06-19 00:10:39 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-06-18 23:49:26 +0000"
-    },
-    "done": true
-  },
-  "enchantmentmachine:recipes/decorations/enchantment_block": {
-    "criteria": {
-      "has_obsidian": "2025-06-19 00:56:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
-    },
-    "done": true
-  },
   "skilltree:recipes/misc/simple_necklace": {
     "criteria": {
       "has_nuggets_gold": "2025-06-19 00:54:13 +0000"
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/demon_upgrade": {
-    "criteria": {
-      "has_obsidian": "2025-06-19 00:56:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-06-18 23:38:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-06-19 00:56:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-06-19 00:58:05 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-06-19 00:54:13 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-06-19 00:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 00:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
     },
     "done": true
   },
@@ -7939,39 +7981,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-19 00:34:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot_uncraft_rivet": {
-    "criteria": {
-      "has_rivet": "2025-06-19 00:57:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-19 00:27:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-19 00:56:44 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-06-19 00:54:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-19 00:55:10 +0000"
     },
     "done": true
   },
@@ -7981,15 +8005,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "entered_nether": "2025-06-19 00:25:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-19 00:54:13 +0000"
+      "loot_bastion_other": "2025-06-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -7999,21 +8017,27 @@
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_expert": {
-    "criteria": {
-      "is_triggered": "2025-06-19 00:25:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_uncraft_plate": {
-    "criteria": {
-      "has_plate": "2025-06-19 00:58:03 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/damage_protection_upgrade": {
     "criteria": {
       "has_apple": "2025-06-19 00:56:41 +0000"
+    },
+    "done": true
+  },
+  "enchantmentmachine:recipes/decorations/enchantment_block": {
+    "criteria": {
+      "has_obsidian": "2025-06-19 00:56:44 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/demon_upgrade": {
+    "criteria": {
+      "has_obsidian": "2025-06-19 00:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-19 00:56:44 +0000"
     },
     "done": true
   },
@@ -8023,25 +8047,13 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-06-19 00:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-19 00:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-06-19 00:25:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-19 00:56:44 +0000"
+    },
+    "done": true
+  },
+  "enchantmentmachine:recipes/decorations/enchanter_block": {
     "criteria": {
       "has_obsidian": "2025-06-19 00:56:44 +0000"
     },
@@ -8053,45 +8065,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/misc/netherite_ingot_uncraft_rivet": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-19 00:54:27 +0000"
+      "has_rivet": "2025-06-19 00:57:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/misc/gold_ingot_uncraft_plate": {
     "criteria": {
-      "has_glowstone_dust": "2025-06-19 00:34:22 +0000"
+      "has_plate": "2025-06-19 00:58:03 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
-      "bastion": "2025-06-19 00:55:10 +0000"
+      "has_item": "2025-06-19 00:58:05 +0000"
     },
     "done": true
   },
-  "scguns:main/sheol": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "sheol": "2025-06-19 00:54:12 +0000"
+      "has_iron_block": "2025-06-19 00:58:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-06-19 00:58:05 +0000"
-    },
-    "done": true
-  },
-  "enchantmentmachine:recipes/decorations/enchanter_block": {
-    "criteria": {
-      "has_obsidian": "2025-06-19 00:56:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-19 00:18:42 +0000"
     },
     "done": true
   },
