@@ -9977,3 +9977,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [20Jun2025 01:13:15.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 8.788617942143446,-3.7799998819828033,6.584086251430563
 [20Jun2025 01:13:15.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 7.689071243998569,-3.359999895095825,6.024053465706402
 [20Jun2025 01:24:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Best Friends Forever]
+[20Jun2025 01:35:21.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[20Jun2025 01:36:32.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[20Jun2025 01:37:51.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [A Seedy Place]
+[20Jun2025 01:38:36.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! 78.1355110109871,10.103257678418075,0.09054480948498167
+[20Jun2025 01:40:53.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [Bear Necessities]
+[20Jun2025 01:44:15.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.3007907732376225
+[20Jun2025 01:44:15.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.4617379188762243
+[20Jun2025 01:44:15.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.5478575275674302
+[20Jun2025 01:44:15.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.5939384131384031
+[20Jun2025 01:44:36.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.3654212032961368
+[20Jun2025 01:44:36.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9382557137410004
+[20Jun2025 01:44:36.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.0
+[20Jun2025 01:44:36.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.0
+[20Jun2025 01:45:08.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.4336048429395305
+[20Jun2025 01:45:08.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.1021076698705037
+[20Jun2025 01:45:08.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.501862468227638
+[20Jun2025 01:47:16.222] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/22434, l='ServerLevel[world]', x=-3791.50, y=53.00, z=-1704.50]
+[20Jun2025 01:47:20.578] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/22608, l='ServerLevel[world]', x=-3783.50, y=57.00, z=-1697.50]
+[20Jun2025 01:47:24.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.5152008795403162
+[20Jun2025 01:47:24.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.3476090717099396
+[20Jun2025 01:47:24.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.3475522607041057
+[20Jun2025 01:47:41.873] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[20Jun2025 01:47:43.455] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[20Jun2025 01:47:43.538] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[20Jun2025 01:47:43.539] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[20Jun2025 01:47:47.194] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[20Jun2025 01:47:47.240] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[20Jun2025 01:47:47.240] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[20Jun2025 01:47:47.479] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[20Jun2025 01:48:51.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved wrongly!
+[20Jun2025 01:50:36.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was slain by Bluff
+[20Jun2025 01:50:36.959] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_20.06.2025-01.50.36.dat
+[20Jun2025 01:50:36.979] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[20Jun2025 01:50:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[20Jun2025 01:51:51.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
