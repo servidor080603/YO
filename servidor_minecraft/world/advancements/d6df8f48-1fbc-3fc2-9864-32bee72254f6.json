@@ -8211,9 +8211,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_flint": "2025-06-20 02:23:17 +0000"
+      "has_raw_iron_block": "2025-06-20 02:04:45 +0000"
     },
     "done": true
   },
@@ -8223,27 +8223,9 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-20 02:40:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-06-20 02:05:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-06-20 02:15:39 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/boots_riding_iron": {
-    "criteria": {
-      "has_riding_boots": "2025-06-20 02:55:35 +0000"
     },
     "done": true
   },
@@ -8253,21 +8235,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-20 02:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-20 02:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-20 02:18:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_raw_iron_block": "2025-06-20 02:04:45 +0000"
+      "has_flint": "2025-06-20 02:23:17 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_name_tag": "2025-06-20 02:13:25 +0000"
+      "lava_bucket": "2025-06-20 02:40:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/boots_riding_iron": {
+    "criteria": {
+      "has_riding_boots": "2025-06-20 02:55:35 +0000"
     },
     "done": true
   },
