@@ -10044,3 +10044,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Jun2025 00:50:53.197] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_21.06.2025-00.50.53.dat
 [21Jun2025 00:50:53.213] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
 [21Jun2025 00:50:53.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! 3.6173938481729238,-10.722184566239946,-1.8837524213349752
+[21Jun2025 00:51:48.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Creative Mode]
+[21Jun2025 00:53:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samuel0806: Set own game mode to Survival Mode]
+[21Jun2025 00:54:49.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [We do a little trolling...]
+[21Jun2025 00:55:00.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Masha'/26193, l='ServerLevel[world]', x=-1069.37, y=64.00, z=-7822.07] died, message: 'Masha suffocated in a wall'
+[21Jun2025 00:59:07.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DosmoEntity[' dosmo  ❤0'/28861, l='ServerLevel[world]', x=-3247.55, y=64.00, z=-1095.45] died:  dosmo  ❤0 was slain by samuel0806
+[21Jun2025 01:00:22.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.229] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:22.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.031] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.230] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.432] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.632] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.735] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:23.929] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:24.030] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:24.135] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:24.232] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:24.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:24.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:24.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:24.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:24.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 01:00:48.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [The Desert Swimmers]
+[21Jun2025 01:07:33.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 has made the advancement [A Picky Fellow]
