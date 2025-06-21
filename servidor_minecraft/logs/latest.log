@@ -9980,3 +9980,67 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Jun2025 00:29:13.549] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
 [21Jun2025 00:30:26.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RadioactiveOwlEntity[' radioactive_owl  ❤1'/5110, l='ServerLevel[world]', x=-2540.65, y=58.70, z=-2871.65] died:  radioactive_owl  ❤1 suffocated in a wall
 [21Jun2025 00:34:16.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! 29.579088506861353,0.37499978885306007,2.342578922560733
+[21Jun2025 00:43:02.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved too quickly! 0.5919386208774995,-9.608027159920809,-4.576458446907509
+[21Jun2025 00:43:28.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.6359945889053051
+[21Jun2025 00:43:28.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.376285688178541
+[21Jun2025 00:43:28.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.35794861137219414
+[21Jun2025 00:43:28.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.7476822133976384
+[21Jun2025 00:43:28.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.1319984038764233
+[21Jun2025 00:43:28.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.5134158454479802
+[21Jun2025 00:43:28.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.40489069120621934
+[21Jun2025 00:43:28.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.4061205851498926
+[21Jun2025 00:43:28.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.28286906200901285
+[21Jun2025 00:43:29.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.660972728589968
+[21Jun2025 00:43:29.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.2828391605912657
+[21Jun2025 00:43:29.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.6609268275196882
+[21Jun2025 00:43:29.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.03901151032278
+[21Jun2025 00:43:34.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.43599708007150184
+[21Jun2025 00:43:59.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.3286045883564839
+[21Jun2025 00:43:59.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9151900886372459
+[21Jun2025 00:44:17.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.4107846157239692
+[21Jun2025 00:44:18.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9256796686345297
+[21Jun2025 00:44:18.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.44513078370505355
+[21Jun2025 00:44:18.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9871538392430921
+[21Jun2025 00:44:18.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.2612366533548993
+[21Jun2025 00:44:18.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.9419727226254508
+[21Jun2025 00:44:18.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.6231343307383668
+[21Jun2025 00:44:19.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.44516718625072826
+[21Jun2025 00:44:19.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.290365902079202
+[21Jun2025 00:44:19.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.7887340325273726
+[21Jun2025 00:44:19.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.2876755761062668
+[21Jun2025 00:44:19.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.2709235171801083
+[21Jun2025 00:45:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.555263006946916
+[21Jun2025 00:45:31.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.3508351147015674
+[21Jun2025 00:45:31.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 2.141128875751974
+[21Jun2025 00:45:31.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 2.9262032204553634
+[21Jun2025 00:45:31.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 3.7040546112582433
+[21Jun2025 00:46:23.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.4328250292692246
+[21Jun2025 00:46:23.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.2725192052703278
+[21Jun2025 00:46:23.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.26987531545728416
+[21Jun2025 00:46:24.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.5562090978928609
+[21Jun2025 00:46:24.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.4113416219088322
+[21Jun2025 00:46:24.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.266472922738103
+[21Jun2025 00:46:24.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.3972435727055199
+[21Jun2025 00:46:24.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 1.2523734661754133
+[21Jun2025 00:46:24.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 2.107503359452494
+[21Jun2025 00:46:25.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 2.962633252625892
+[21Jun2025 00:46:54.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1599, y=-25, z=-4786} but found not block entity block Block{minecraft:air} at location
+[21Jun2025 00:46:54.005] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1599, y=-25, z=-4786}
+[21Jun2025 00:46:54.005] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1599, y=-25, z=-4788} but found not block entity block Block{minecraft:air} at location
+[21Jun2025 00:46:54.005] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1599, y=-25, z=-4788}
+[21Jun2025 00:47:12.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 00:48:11.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 00:48:34.692] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 00:48:58.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 00:49:29.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 00:49:32.201] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 00:49:43.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.6047378205203131
+[21Jun2025 00:49:43.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.35386940580883675
+[21Jun2025 00:49:43.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.29286160040373943
+[21Jun2025 00:49:43.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.25122984748145427
+[21Jun2025 00:49:43.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis (vehicle of samuel0806) moved wrongly! 0.6368877773672921
+[21Jun2025 00:50:51.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved wrongly!
+[21Jun2025 00:50:53.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samuel0806 was struck with lightning by Lightning Dragon
+[21Jun2025 00:50:53.197] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for samuel0806 with unique ID travelersbackpack.standard_21.06.2025-00.50.53.dat
+[21Jun2025 00:50:53.213] [Server thread/INFO] [tombstone/]: The player samuel0806 has successfully been saved
+[21Jun2025 00:50:53.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samuel0806 moved too quickly! 3.6173938481729238,-10.722184566239946,-1.8837524213349752
